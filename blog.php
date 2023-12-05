@@ -152,7 +152,7 @@
                                 </div>
                             </nav>
                             <div class="menu-right-content ml_70">
-                                <a href="tel:+918646012345" class="theme-btn btn-two mr_20">Call Now</a>
+                                <a href="tel:+918646012345" class="theme-btn btn-two mr_20">Call Us Now</a>
                                 <a href="https://api.whatsapp.com/send/?phone=%2B918646012345&text&type=phone_number&app_absent=0" target="_blank" class="theme-btn btn-one">Chat on Whatsapp</a>
                             </div>
                         </div>
@@ -173,7 +173,7 @@
                                 <!--Keep This Empty / Menu will come through Javascript-->
                             </nav>
                             <div class="menu-right-content ml_70">
-                                <a href="index.php" class="theme-btn btn-two mr_20">Call Now</a>
+                                <a href="index.php" class="theme-btn btn-two mr_20">Call Us Now</a>
                                 <a href="https://api.whatsapp.com/send/?phone=%2B918646012345&text&type=phone_number&app_absent=0" target="_blank" class="theme-btn btn-one">Chat on Whatsapp</a>
                             </div>
                         </div>

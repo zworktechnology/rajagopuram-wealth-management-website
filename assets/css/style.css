@@ -220,7 +220,7 @@ h1,h2,h3,h4,h5,h6{
   top: 0;
   width: 100%;
   z-index: 9999999;
-  background: #0E1D40;
+  background: #ff4900;
 }
 
 .preloader-close{
@@ -707,7 +707,7 @@ img {
 .header-top{
   position: relative;
   width: 100%;
-  background: #212226;
+  background: #1c1c56;
   padding: 16px 0px;
 }
 

@@ -150,7 +150,6 @@
                                                 <li><a href="service-details.php">Mutual Funds</a></li>
                                                 <li><a href="service-details.php">Portfolio Management</a></li>
                                                 <li><a href="service-details.php">Insurance</a></li>
-                                                <li><a href="service-details.php">Chit Funds</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="blog.php">Blog</a></li>

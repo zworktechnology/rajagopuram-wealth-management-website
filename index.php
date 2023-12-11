@@ -11,10 +11,10 @@
                     </div>
                     <div class="auto-container">
                         <div class="content-box">
-                            <h2>Open our <span>Current</span> Account Online</h2>
+                            <h2>Open your <span>Demat</span> account with IIFL, Free of cost</h2>
                             <p>This statistic is based on our average personal current account online opening time from the last 12 months.</p>
                             <div class="btn-box">
-                                <a href="index.php" class="theme-btn btn-one">Make an Appointment</a>
+                                <a href="contact.php" class="theme-btn btn-one">Contact Us</a>
                             </div>
                         </div> 
                     </div>
@@ -30,7 +30,7 @@
                             <h2>Open our <span>Current</span> Account Online</h2>
                             <p>This statistic is based on our average personal current account online opening time from the last 12 months.</p>
                             <div class="btn-box">
-                                <a href="index.php" class="theme-btn btn-one">Make an Appointment</a>
+                                <a href="contact.php" class="theme-btn btn-one">Contact Us</a>
                             </div>
                         </div> 
                     </div>
@@ -46,7 +46,7 @@
                             <h2>Open our <span>Current</span> Account Online</h2>
                             <p>This statistic is based on our average personal current account online opening time from the last 12 months.</p>
                             <div class="btn-box">
-                                <a href="index.php" class="theme-btn btn-one">Make an Appointment</a>
+                                <a href="contact.php" class="theme-btn btn-one">Contact Us</a>
                             </div>
                         </div>  
                     </div>
@@ -63,29 +63,29 @@
                     <div class="feature-block-one">
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-5"></i></div>
-                            <h4><a href="javascript:void(0)">Secure International Transaction</a></h4>
-                            <p>Tortor neque sed tellus estian eget dui id ante tristique more tristique dolor.</p>
-                        </div>
-                    </div>
-                    <div class="feature-block-one">
-                        <div class="inner-box">
-                            <div class="icon-box"><i class="icon-6"></i></div>
-                            <h4><a href="javascript:void(0)">24/7 Support from the Expert Team</a></h4>
-                            <p>Tortor neque sed tellus estian eget dui id ante tristique more tristique dolor.</p>
+                            <h4><a href="javascript:void(0)">Customer-Centric Approach</a></h4>
+                            <p>Our customers are at the heart of everything we do. We prioritize your satisfaction and strive to exceed your expectations at every interaction.</p>
                         </div>
                     </div>
                     <div class="feature-block-one">
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-7"></i></div>
-                            <h4><a href="javascript:void(0)">Lowest Processing Fee than Other Banks</a></h4>
-                            <p>Tortor neque sed tellus estian eget dui id ante tristique more tristique dolor.</p>
+                            <h4><a href="javascript:void(0)">Competitive Pricing</a></h4>
+                            <p>We offer competitive and fair pricing for our products/services, ensuring that you receive excellent value for your investment.<br><br></p>
                         </div>
                     </div>
                     <div class="feature-block-one">
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-8"></i></div>
-                            <h4><a href="javascript:void(0)">Less Time in any Loans Approval</a></h4>
-                            <p>Tortor neque sed tellus estian eget dui id ante tristique more tristique dolor.</p>
+                            <h4><a href="javascript:void(0)">Commitment to Quality</a></h4>
+                            <p>Quality is non-negotiable for us. From product/service delivery to customer support, we maintain the highest standards to ensure your satisfaction.<br><br></p>
+                        </div>
+                    </div>
+                    <div class="feature-block-one">
+                        <div class="inner-box">
+                            <div class="icon-box"><i class="icon-6"></i></div>
+                            <h4><a href="javascript:void(0)">Customer Support</a></h4>
+                            <p>Our dedicated customer support team is available 24/7 to assist you. Your inquiries and concerns are our top priority.<br><br><br></p>
                         </div>
                     </div>
                 </div>
@@ -116,8 +116,8 @@
                                 </div>
                                 <div class="experience-box">
                                     <div class="inner">
-                                        <h2>40</h2>
-                                        <h6>Years of Experiense</h6>
+                                        <h2>19</h2>
+                                        <h6>Years of Experience</h6>
                                     </div>
                                 </div>
                             </div>
@@ -131,19 +131,11 @@
                                     <h2>Financial Guidance for Every Stage of Life.</h2>
                                 </div>
                                 <div class="text-box mb_40">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis, suscipit you take action against fraud. See it the Security Center for and Mobile and Online Banking.</p>
-                                </div>
-                                <div class="inner-box mb_45">
-                                    <div class="single-item">
-                                        <div class="icon-box"><i class="icon-10"></i></div>
-                                        <h3>Solution Focused</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis tincidunt feugiat</p>
-                                    </div>
-                                    <div class="single-item">
-                                        <div class="icon-box"><i class="icon-11"></i></div>
-                                        <h3>99.99% Success</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis tincidunt feugiat</p>
-                                    </div>
+                                    <ul class="one">
+                                        <li>&#8226;&nbsp;&nbsp;   At Rajagopuram Wealth Management, we firmly believe in the importance of tailor-made solutions that suit the unique needs of our clients. This people-centric focus has fostered enduring relationships spanning decades and generations with our customers.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   The legacy of trust and integrity under the brand 'Rajagopuram Wealth Management' is deeply gratifying and has led to the establishment of "Rajagopuram Wealth Management Services," where comprehensive financial solutions are available under one roof. Our growth has largely been organic, with key partnerships solidifying our position as the most reliable Wealth Management firm in Trichy.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   Rajagopuram Wealth Management has been operating from Trichy Srirangam since 2004, promoted by Shri S. Moorthy, who brings over 18 years of experience in the industry. The passion for serving our ever-growing client base, coupled with a commitment to customer delight, propels us to achieve new heights of professional excellence.</li>
+                                    </ul>
                                 </div>
                                 <div class="btn-box">
                                     <a href="index.php" class="theme-btn btn-one">Discover More</a>
@@ -163,7 +155,7 @@
             <div class="auto-container">
                 <div class="sec-title centred mb_60">
                     <h6>Our Services</h6>
-                    <h2>Online Banking at Your <br>Fingertips</h2>
+                    <h2>Empowering Your Financial Future <br> Through Smart Investments</h2>
                 </div>
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
@@ -173,9 +165,9 @@
                                 <div class="icon-box"><i class="icon-12"></i></div>
                                 <h4><a href="service-details.php">Share Market</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Bank & savings accounts</li>
-                                    <li>Credit cards</li>
-                                    <li>Personal loans</li>
+                                    <li>Stock Exchanges</li>
+                                    <li>Market Capitalization</li>
+                                    <li>Investors</li>
                                 </ul>
                             </div>
                         </div>
@@ -187,9 +179,9 @@
                                 <div class="icon-box"><i class="icon-13"></i></div>
                                 <h4><a href="service-details-2.php">Mutual Funds</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Instant Access</li>
-                                    <li>Savings Fixed Term</li>
-                                    <li>Savings Instant</li>
+                                    <li>Professional Management</li>
+                                    <li>Distribution of Profits</li>
+                                    <li>Regulation</li>
                                 </ul>
                             </div>
                         </div>
@@ -201,9 +193,9 @@
                                 <div class="icon-box"><i class="icon-14"></i></div>
                                 <h4><a href="service-details-3.php">Portfolio Management</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Pet insurance</li>
-                                    <li>Transport Insurance</li>
-                                    <li>Accident insurance</li>
+                                    <li>Asset Allocation</li>
+                                    <li>Security Selection</li>
+                                    <li>Tax Efficiency</li>
                                 </ul>
                             </div>
                         </div>
@@ -215,9 +207,9 @@
                                 <div class="icon-box"><i class="icon-15"></i></div>
                                 <h4><a href="service-details-4.php">Insurance</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Residential Mortgages</li>
-                                    <li>Buy-to-let Mortgages</li>
-                                    <li>Building Mortgages</li>
+                                    <li>Coverage Limits</li>
+                                    <li>Policy Terms</li>
+                                    <li>Claims</li>
                                 </ul>
                             </div>
                         </div>
@@ -255,7 +247,7 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-21"></i></div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="50">0</span><span>k+</span>
+                                <span class="count-text" data-speed="1500" data-stop="1000">0</span><span>+</span>
                             </div>
                             <p>Happy Clients</p>
                         </div>
@@ -273,9 +265,9 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-23"></i></div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="40">0</span><span>+</span>
+                                <span class="count-text" data-speed="1500" data-stop="2">0</span><span>+</span>
                             </div>
-                            <p>Branchs in USA</p>
+                            <p>Branchs in Trichy</p>
                         </div>
                     </div>
                 </div>

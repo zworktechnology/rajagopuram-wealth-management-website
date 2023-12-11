@@ -142,7 +142,6 @@
                                                 <li><a href="service-details.php">Mutual Funds</a></li>
                                                 <li><a href="service-details.php">Portfolio Management</a></li>
                                                 <li><a href="service-details.php">Insurance</a></li>
-                                                <li><a href="service-details.php">Chit Funds</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="blog.php">Blog</a></li>
@@ -266,7 +265,8 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-44"></i></div>
                                 <h3>Phone Number</h3>
-                                <p><a href="tel:+918646012345">+918646012345</a></p>
+                                <p><a href="tel:+918646012345">+91 86460 12345</a></p>
+                                <p><a href="tel:+918190001234">+91 81900 01234</a></p>
                             </div>
                         </div>
                     </div>

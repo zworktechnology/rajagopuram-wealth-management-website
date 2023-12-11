@@ -45,7 +45,6 @@
                                         <li><a href="javascript:void(0)">Mutual Funds</a></li>
                                         <li><a href="javascript:void(0)">Portfolio Management</a></li>
                                         <li><a href="javascript:void(0)">Insurance</a></li>
-                                        <li><a href="javascript:void(0)">Chit Funds</a></li>
                                     </ul>
                                 </div>
                             </div>

@@ -149,7 +149,6 @@
                                                 <li><a href="service-details.php">Mutual Funds</a></li>
                                                 <li><a href="service-details.php">Portfolio Management</a></li>
                                                 <li><a href="service-details.php">Insurance</a></li>
-                                                <li><a href="service-details.php">Chit Funds</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="blog.php">Blog</a></li>
@@ -264,7 +263,7 @@
                                 </div>
                                 <div class="experience-box">
                                     <div class="inner">
-                                        <h2>40</h2>
+                                        <h2>19</h2>
                                         <h6>Years of Experiense</h6>
                                     </div>
                                 </div>
@@ -316,7 +315,7 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-21"></i></div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="50">0</span><span>k+</span>
+                                <span class="count-text" data-speed="1500" data-stop="1000">0</span><span>+</span>
                             </div>
                             <p>Happy Clients</p>
                         </div>
@@ -334,9 +333,9 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-23"></i></div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="40">0</span><span>+</span>
+                                <span class="count-text" data-speed="1500" data-stop="2">0</span><span>+</span>
                             </div>
-                            <p>Branchs in USA</p>
+                            <p>Branchs in Trichy</p>
                         </div>
                     </div>
                 </div>

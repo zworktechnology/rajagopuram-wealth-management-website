@@ -12,7 +12,7 @@
                     <div class="auto-container">
                         <div class="content-box">
                             <h2>Open your <span>Demat</span> account with IIFL, Free of cost</h2>
-                            <p>This statistic is based on our average personal current account online opening time from the last 12 months.</p>
+                            <p>In just 5 minutes and Start Trading in 30 minutes.</p>
                             <div class="btn-box">
                                 <a href="contact.php" class="theme-btn btn-one">Contact Us</a>
                             </div>
@@ -26,9 +26,9 @@
                         <div class="pattern-2" style="background-image: url(assets/images/shape/shape-2.png);"></div>
                     </div>
                     <div class="auto-container">
-                        <div class="content-box">
-                            <h2>Open our <span>Current</span> Account Online</h2>
-                            <p>This statistic is based on our average personal current account online opening time from the last 12 months.</p>
+                    <div class="content-box">
+                            <h2>Open your <span>Demat</span> account with IIFL, Free of cost</h2>
+                            <p>In just 5 minutes and Start Trading in 30 minutes.</p>
                             <div class="btn-box">
                                 <a href="contact.php" class="theme-btn btn-one">Contact Us</a>
                             </div>
@@ -42,9 +42,9 @@
                         <div class="pattern-2" style="background-image: url(assets/images/shape/shape-2.png);"></div>
                     </div>
                     <div class="auto-container">
-                        <div class="content-box">
-                            <h2>Open our <span>Current</span> Account Online</h2>
-                            <p>This statistic is based on our average personal current account online opening time from the last 12 months.</p>
+                    <div class="content-box">
+                            <h2>Open your <span>Demat</span> account with IIFL, Free of cost</h2>
+                            <p>In just 5 minutes and Start Trading in 30 minutes.</p>
                             <div class="btn-box">
                                 <a href="contact.php" class="theme-btn btn-one">Contact Us</a>
                             </div>
@@ -133,8 +133,9 @@
                                 <div class="text-box mb_40">
                                     <ul class="one">
                                         <li>&#8226;&nbsp;&nbsp;   At Rajagopuram Wealth Management, we firmly believe in the importance of tailor-made solutions that suit the unique needs of our clients. This people-centric focus has fostered enduring relationships spanning decades and generations with our customers.</li>
-                                        <li>&#8226;&nbsp;&nbsp;   The legacy of trust and integrity under the brand 'Rajagopuram Wealth Management' is deeply gratifying and has led to the establishment of "Rajagopuram Wealth Management Services," where comprehensive financial solutions are available under one roof. Our growth has largely been organic, with key partnerships solidifying our position as the most reliable Wealth Management firm in Trichy.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   We operate our business from our own building, spanning approximately 1200 square feet, providing a solid foundation for trust and reliability.</li>
                                         <li>&#8226;&nbsp;&nbsp;   Rajagopuram Wealth Management has been operating from Trichy Srirangam since 2004, promoted by Shri S. Moorthy, who brings over 18 years of experience in the industry. The passion for serving our ever-growing client base, coupled with a commitment to customer delight, propels us to achieve new heights of professional excellence.</li>
+                                        
                                     </ul>
                                 </div>
                                 <div class="btn-box">
@@ -165,9 +166,12 @@
                                 <div class="icon-box"><i class="icon-12"></i></div>
                                 <h4><a href="service-details.php">Share Market</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Stock Exchanges</li>
-                                    <li>Market Capitalization</li>
-                                    <li>Investors</li>
+                              <li>  Equity market</li>
+                               <li> Future and options</li>
+                               <li> Currency and derivatives</li>
+                               <li> Commodities </li>
+                               <li> IPO</li>
+
                                 </ul>
                             </div>
                         </div>
@@ -179,9 +183,12 @@
                                 <div class="icon-box"><i class="icon-13"></i></div>
                                 <h4><a href="service-details-2.php">Mutual Funds</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Professional Management</li>
-                                    <li>Distribution of Profits</li>
-                                    <li>Regulation</li>
+                                    <li>NFO</li>
+                                    <li>Goal planning</li>
+                                    <li>Child education</li>
+                                    <li> Travel planning</li>
+                                    <li> Retirement planning</li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -207,9 +214,9 @@
                                 <div class="icon-box"><i class="icon-15"></i></div>
                                 <h4><a href="service-details-4.php">Insurance</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Coverage Limits</li>
-                                    <li>Policy Terms</li>
-                                    <li>Claims</li>
+                                    <li>Life insurance</li>
+                                    <li>Health  insurance</li>
+                                    <li>General  insurance</li>
                                 </ul>
                             </div>
                         </div>
@@ -254,11 +261,11 @@
                     </div>
                     <div class="funfact-block-one">
                         <div class="inner-box">
-                            <div class="icon-box"><i class="icon-22"></i></div>
+                            <div class="icon-box"><i class="icon-23"></i></div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="90">0</span><span>Bn</span>
+                                <span class="count-text" data-speed="1500" data-stop="18">0</span><span>+</span>
                             </div>
-                            <p>Total Transection</p>
+                            <p>Years of Experience</p>
                         </div>
                     </div>
                     <div class="funfact-block-one">

@@ -15,6 +15,9 @@
                                     <li><a href="https://www.facebook.com/rajagopuramwealth" target="_blank" ><span class="fab fa-facebook"></span></a></li>
                                     <li><a href="https://www.instagram.com/rajagopuram_wealth/" target="_blank"><span class="fab fa-instagram"></span></a></li>
                                     <li><a href="https://www.youtube.com/@rajagopuram4920" target="_blank"><span class="fab fa-youtube"></span></a></li>
+                                    <li><a href="#" target="_blank"><span class="fab fa-whatsapp"></span></a></li>
+                                    <li><a href="#" target="_blank"><span class="fab fa-twitter"></span></a></li>
+                                
                                 </ul>
                             </div>
                         </div>
@@ -56,7 +59,7 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="links-list clearfix">
-                                        <li><a href="javascript:void(0)">Faq</a></li>
+                                        <li><a href="javascript:void(0)">Queries</a></li>
                                         <li><a href="javascript:void(0)">Terms & Condition</a></li>
                                         <li><a href="javascript:void(0)">Privacy Policy</a></li>
                                         <li><a href="javascript:void(0)">Contact</a></li>

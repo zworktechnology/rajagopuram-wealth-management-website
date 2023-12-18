@@ -163,7 +163,7 @@
                             <div class="inner-box">
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-12"></i></div>
-                                <h4><a href="service-details.php">Share Market</a></h4>
+                                <h4><a href="javascript:void(0)">Share Market</a></h4>
                                 <ul class="list-item clearfix">
                               <li>  Equity market</li>
                                <li> Future and options</li>
@@ -180,7 +180,7 @@
                             <div class="inner-box">
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-13"></i></div>
-                                <h4><a href="service-details.php">Mutual Funds</a></h4>
+                                <h4><a href="javascript:void(0)">Mutual Funds</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>NFO</li>
                                     <li>Goal planning</li>
@@ -197,7 +197,7 @@
                             <div class="inner-box">
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-14"></i></div>
-                                <h4><a href="service-details.php">Portfolio Management</a></h4>
+                                <h4><a href="javascript:void(0)">Portfolio Management</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>Asset Allocation</li>
                                     <li>Security Selection</li>
@@ -211,7 +211,7 @@
                             <div class="inner-box">
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-15"></i></div>
-                                <h4><a href="service-details.php">Insurance</a></h4>
+                                <h4><a href="javascript:void(0)">Insurance</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>Life insurance</li>
                                     <li>Health  insurance</li>
@@ -298,12 +298,12 @@
                             <div class="inner-box" style="background-image: url(assets/images/news/news-1.jpg);">
                                 <div class="content-box">
                                     <span class="post-date"><i class="icon-27"></i>Apr 17, 2022</span>
-                                    <h3><a href="blog-details.php">Self-Guided Driving & Tours Walk Of Greater City</a></h3>
-                                    <ul class="post-info mb_25">
+                                    <h3><a href="javascript:void(0)">Self-Guided Driving & Tours Walk Of Greater City</a></h3>
+                                    <!-- <ul class="post-info mb_25">
                                         <li><i class="icon-28"></i><a href="blog-details.php">Admin</a></li>
                                         <li><i class="icon-29"></i>0 Comment</li>
                                     </ul>
-                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div>
+                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div> -->
                                 </div>
                             </div>
                         </div>
@@ -313,12 +313,12 @@
                             <div class="inner-box" style="background-image: url(assets/images/news/news-2.jpg);">
                                 <div class="content-box">
                                     <span class="post-date"><i class="icon-27"></i>Apr 16, 2022</span>
-                                    <h3><a href="blog-details.php">Assistance For Homes & Properties Real Estate</a></h3>
-                                    <ul class="post-info mb_25">
+                                    <h3><a href="javascript:void(0)">Assistance For Homes & Properties Real Estate</a></h3>
+                                    <!-- <ul class="post-info mb_25">
                                         <li><i class="icon-28"></i><a href="blog-details.php">Admin</a></li>
                                         <li><i class="icon-29"></i>4 Comment</li>
                                     </ul>
-                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div>
+                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div> -->
                                 </div>
                             </div>
                         </div>
@@ -328,12 +328,12 @@
                             <div class="inner-box" style="background-image: url(assets/images/news/news-3.jpg);">
                                 <div class="content-box">
                                     <span class="post-date"><i class="icon-27"></i>Apr 15, 2022</span>
-                                    <h3><a href="blog-details.php">Long-Term Vision Of Health & Attractive Facility</a></h3>
-                                    <ul class="post-info mb_25">
+                                    <h3><a href="javascript:void(0)">Long-Term Vision Of Health & Attractive Facility</a></h3>
+                                    <!-- <ul class="post-info mb_25">
                                         <li><i class="icon-28"></i><a href="blog-details.php">Admin</a></li>
                                         <li><i class="icon-29"></i>1 Comment</li>
                                     </ul>
-                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div>
+                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div> -->
                                 </div>
                             </div>
                         </div>

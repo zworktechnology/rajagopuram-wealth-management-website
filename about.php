@@ -375,8 +375,8 @@
                         <div class="feature-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-5"></i></div>
-                                <h4><a href="index.php">Secure International Transaction</a></h4>
-                                <p>Tortor neque sed tellus estian eget dui id ante tristique more tristique dolor.</p>
+                                <h4><a href="javascript:void(0)">Expertise and Experience</a></h4>
+                                <p>With 18+ Years of experience in Providing Financial services, our team brings a wealth<br> of expertise to meet your needs.<br><br></p>
                             </div>
                         </div>
                     </div>
@@ -384,8 +384,8 @@
                         <div class="feature-block-one wow fadeInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-6"></i></div>
-                                <h4><a href="index.php">24/7 Support from the Expert Team</a></h4>
-                                <p>Tortor neque sed tellus estian eget dui id ante tristique more tristique dolor.</p>
+                                <h4><a href="javascript:void(0)">Innovation and Technology</a></h4>
+                                <p>We stay at the forefront of industry trends, leveraging the latest innovations and technologies to provide you with cutting-edge solutions.<br><br></p>
                             </div>
                         </div>
                     </div>
@@ -393,8 +393,8 @@
                         <div class="feature-block-one wow fadeInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-7"></i></div>
-                                <h4><a href="index.php">Lowest Processing Fee than Other Banks</a></h4>
-                                <p>Tortor neque sed tellus estian eget dui id ante tristique more tristique dolor.</p>
+                                <h4><a href="javascript:void(0)">Tailor-Made <br>Solutions</a></h4>
+                                <p>Recognizing that every customer is unique, we offer personalized solutions that align with your specific requirements and goals.<br><br></p>
                             </div>
                         </div>
                     </div>
@@ -402,8 +402,8 @@
                         <div class="feature-block-one wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-8"></i></div>
-                                <h4><a href="index.php">Less Time in any Loans Approval</a></h4>
-                                <p>Tortor neque sed tellus estian eget dui id ante tristique more tristique dolor.</p>
+                                <h4><a href="javascript:void(0)">Transparency and Integrity</a></h4>
+                                <p>Our commitment to transparency and integrity is unwavering. You can trust us to operate with honesty, openness, and ethical practices.</p>
                             </div>
                         </div>
                     </div>

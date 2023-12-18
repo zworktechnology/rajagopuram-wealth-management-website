@@ -165,12 +165,11 @@
                                 <div class="icon-box"><i class="icon-12"></i></div>
                                 <h4><a href="javascript:void(0)">Share Market</a></h4>
                                 <ul class="list-item clearfix">
-                              <li>  Equity market</li>
-                               <li> Future and options</li>
-                               <li> Currency and derivatives</li>
-                               <li> Commodities </li>
-                               <li> IPO</li>
-
+                                    <li>  Equity market</li>
+                                    <li> Future and options</li>
+                                    <li> Currency and derivatives</li>
+                                    <li> Commodities </li>
+                                    <li> IPO</li>
                                 </ul>
                             </div>
                         </div>
@@ -187,7 +186,6 @@
                                     <li>Child education</li>
                                     <li> Travel planning</li>
                                     <li> Retirement planning</li>
-                                   
                                 </ul>
                             </div>
                         </div>
@@ -202,6 +200,8 @@
                                     <li>Asset Allocation</li>
                                     <li>Security Selection</li>
                                     <li>Tax Efficiency</li>
+                                    <br>
+                                    <br>
                                 </ul>
                             </div>
                         </div>
@@ -216,6 +216,8 @@
                                     <li>Life insurance</li>
                                     <li>Health  insurance</li>
                                     <li>General  insurance</li>
+                                    <br>
+                                    <br>
                                 </ul>
                             </div>
                         </div>

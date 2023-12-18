@@ -248,9 +248,11 @@
                                 <div class="icon-box"><i class="icon-12"></i></div>
                                 <h4><a href="javascript:void(0)">Share Market</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Bank & savings accounts</li>
-                                    <li>Credit cards</li>
-                                    <li>Personal loans</li>
+                                    <li>  Equity market</li>
+                                    <li> Future and options</li>
+                                    <li> Currency and derivatives</li>
+                                    <li> Commodities </li>
+                                    <li> IPO</li>
                                 </ul>
                             </div>
                         </div>
@@ -262,9 +264,11 @@
                                 <div class="icon-box"><i class="icon-13"></i></div>
                                 <h4><a href="javascript:void(0)">Mutual Funds</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Instant Access</li>
-                                    <li>Savings Fixed Term</li>
-                                    <li>Savings Instant</li>
+                                    <li>NFO</li>
+                                    <li>Goal planning</li>
+                                    <li>Child education</li>
+                                    <li> Travel planning</li>
+                                    <li> Retirement planning</li>
                                 </ul>
                             </div>
                         </div>
@@ -276,9 +280,11 @@
                                 <div class="icon-box"><i class="icon-14"></i></div>
                                 <h4><a href="javascript:void(0)">Portfolio Management</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Pet insurance</li>
-                                    <li>Transport Insurance</li>
-                                    <li>Accident insurance</li>
+                                    <li>Asset Allocation</li>
+                                    <li>Security Selection</li>
+                                    <li>Tax Efficiency</li>
+                                    <br>
+                                    <br>
                                 </ul>
                             </div>
                         </div>
@@ -290,9 +296,11 @@
                                 <div class="icon-box"><i class="icon-15"></i></div>
                                 <h4><a href="javascript:void(0)">Insurance</a></h4>
                                 <ul class="list-item clearfix">
-                                    <li>Residential Mortgages</li>
-                                    <li>Buy-to-let Mortgages</li>
-                                    <li>Building Mortgages</li>
+                                    <li>Life insurance</li>
+                                    <li>Health  insurance</li>
+                                    <li>General  insurance</li>
+                                    <br>
+                                    <br>
                                 </ul>
                             </div>
                         </div>

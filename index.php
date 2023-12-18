@@ -232,7 +232,7 @@
             <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/video-bg.jpg);"></div>
             <div class="auto-container">
                 <div class="inner-box">
-                    <h2>The 3rd Generation Private Commercial Bank</h2>
+                    <h2>Financial Services</h2>
                     <div class="video-btn">
                         <a href="https://www.youtube.com/watch?v=K2D2-QgL6UM" class="lightbox-image" data-caption="">
                             <i class="icon-20"></i>
@@ -275,16 +275,17 @@
                             <div class="count-outer count-box">
                                 <span class="count-text" data-speed="1500" data-stop="2">0</span><span>+</span>
                             </div>
-                            <p>Branchs in Trichy</p>
+                            <p>Branches in Trichy</p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
         <!-- funfact-section end -->
+        <br>
 
         <!-- news-section -->
-        <section class="news-section pt_120 pb_90">
+        <!-- <section class="news-section pt_120 pb_90">
             <div class="pattern-layer">
                 <div class="pattern-1" style="background-image: url(assets/images/shape/shape-6.png);"></div>
                 <div class="pattern-2" style="background-image: url(assets/images/shape/shape-7.png);"></div>
@@ -301,11 +302,11 @@
                                 <div class="content-box">
                                     <span class="post-date"><i class="icon-27"></i>Apr 17, 2022</span>
                                     <h3><a href="javascript:void(0)">Self-Guided Driving & Tours Walk Of Greater City</a></h3>
-                                    <!-- <ul class="post-info mb_25">
+                                    <ul class="post-info mb_25">
                                         <li><i class="icon-28"></i><a href="blog-details.php">Admin</a></li>
                                         <li><i class="icon-29"></i>0 Comment</li>
                                     </ul>
-                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div> -->
+                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div>
                                 </div>
                             </div>
                         </div>
@@ -316,11 +317,11 @@
                                 <div class="content-box">
                                     <span class="post-date"><i class="icon-27"></i>Apr 16, 2022</span>
                                     <h3><a href="javascript:void(0)">Assistance For Homes & Properties Real Estate</a></h3>
-                                    <!-- <ul class="post-info mb_25">
+                                    <ul class="post-info mb_25">
                                         <li><i class="icon-28"></i><a href="blog-details.php">Admin</a></li>
                                         <li><i class="icon-29"></i>4 Comment</li>
                                     </ul>
-                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div> -->
+                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div>
                                 </div>
                             </div>
                         </div>
@@ -331,18 +332,18 @@
                                 <div class="content-box">
                                     <span class="post-date"><i class="icon-27"></i>Apr 15, 2022</span>
                                     <h3><a href="javascript:void(0)">Long-Term Vision Of Health & Attractive Facility</a></h3>
-                                    <!-- <ul class="post-info mb_25">
+                                    <ul class="post-info mb_25">
                                         <li><i class="icon-28"></i><a href="blog-details.php">Admin</a></li>
                                         <li><i class="icon-29"></i>1 Comment</li>
                                     </ul>
-                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div> -->
+                                    <div class="btn-box"><a href="blog-details.php" class="theme-btn btn-three">Read More</a></div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- news-section end -->
 
 <?php include('footer.php') ?> 

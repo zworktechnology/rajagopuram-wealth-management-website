@@ -238,7 +238,7 @@
             <div class="auto-container">
                 <div class="sec-title centred mb_60">
                     <h6>Our Services</h6>
-                    <h2>Online Banking at Fingertips</h2>
+                    <h2>Financial Services</h2>
                 </div>
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">

@@ -277,24 +277,11 @@
                                     <h2>Financial Guidance for Every Stage of Life.</h2>
                                 </div>
                                 <div class="text-box mb_40">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis, suscipit you take action against fraud. See it the Security Center for and Mobile and Online Banking.</p>
-                                </div>
-                                <div class="inner-box mb_45">
-                                    <div class="single-item">
-                                        <div class="icon-box"><i class="icon-10"></i></div>
-                                        <h3>Solution Focused</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis tincidunt feugiat</p>
-                                    </div>
-                                    <div class="single-item">
-                                        <div class="icon-box"><i class="icon-11"></i></div>
-                                        <h3>99.99% Success</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis tincidunt feugiat</p>
-                                    </div>
-                                    <div class="single-item">
-                                        <div class="icon-box"><i class="icon-11"></i></div>
-                                        <h3>99.99% Success</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis tincidunt feugiat</p>
-                                    </div>
+                                    <ul class="one">
+                                        <li>&#8226;&nbsp;&nbsp;   The legacy of trust and integrity under the brand 'Rajagopuram Wealth Management' is deeply gratifying and has led to the establishment of "Rajagopuram Wealth Management Services," where comprehensive financial solutions are available under one roof. Our growth has largely been organic, with key partnerships solidifying our position as the most reliable Wealth Management firm in Trichy.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   We cater to various industries, serving over 1000+ customers, including individuals, corporates, retailers, and small and medium business owners. Our expert team excels in providing the right solutions, maintaining a 'customer-first' focus.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   Rajagopuram Wealth Management has received numerous awards, including the prestigious "BEST CUSTOMER SATISFACTION" award for three consecutive years, recognizing our excellent 24x7 customer support services. We have strategically partnered with IIFL SECURITIES to further enhance our services.</li>
+                                    </ul>
                                 </div>
                                 
                             </div>
@@ -334,7 +321,7 @@
                             <div class="count-outer count-box">
                                 <span class="count-text" data-speed="1500" data-stop="2">0</span><span>+</span>
                             </div>
-                            <p>Branchs in Trichy</p>
+                            <p>Branches in Trichy</p>
                         </div>
                     </div>
                 </div>
@@ -348,7 +335,7 @@
             <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/video-bg.jpg);"></div>
             <div class="auto-container">
                 <div class="inner-box">
-                    <h2>The 3rd Generation Private Commercial Bank</h2>
+                    <h2>Financial Services</h2>
                     <div class="video-btn">
                         <a href="https://www.youtube.com/watch?v=K2D2-QgL6UM" class="lightbox-image" data-caption="">
                             <i class="icon-20"></i>

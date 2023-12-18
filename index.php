@@ -19,7 +19,7 @@
                         </div> 
                     </div>
                 </div>
-                <div class="slide-item p_relative">
+                <!-- <div class="slide-item p_relative">
                     <div class="bg-layer" style="background-image: url(assets/images/banner/banner-2.jpg);"></div>
                     <div class="pattern-layer">
                         <div class="pattern-1" style="background-image: url(assets/images/shape/shape-1.png);"></div>
@@ -50,7 +50,7 @@
                             </div>
                         </div>  
                     </div>
-                </div>
+                </div> -->
             </div>
         </section>
         <!-- banner-section end -->
@@ -116,7 +116,7 @@
                                 </div>
                                 <div class="experience-box">
                                     <div class="inner">
-                                        <h2>19</h2>
+                                        <h2>18+</h2>
                                         <h6>Years of Experience</h6>
                                     </div>
                                 </div>
@@ -135,11 +135,10 @@
                                         <li>&#8226;&nbsp;&nbsp;   At Rajagopuram Wealth Management, we firmly believe in the importance of tailor-made solutions that suit the unique needs of our clients. This people-centric focus has fostered enduring relationships spanning decades and generations with our customers.</li>
                                         <li>&#8226;&nbsp;&nbsp;   We operate our business from our own building, spanning approximately 1200 square feet, providing a solid foundation for trust and reliability.</li>
                                         <li>&#8226;&nbsp;&nbsp;   Rajagopuram Wealth Management has been operating from Trichy Srirangam since 2004, promoted by Shri S. Moorthy, who brings over 18 years of experience in the industry. The passion for serving our ever-growing client base, coupled with a commitment to customer delight, propels us to achieve new heights of professional excellence.</li>
-                                        
                                     </ul>
                                 </div>
                                 <div class="btn-box">
-                                    <a href="index.php" class="theme-btn btn-one">Discover More</a>
+                                    <a href="service.php" class="theme-btn btn-one">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -181,7 +180,7 @@
                             <div class="inner-box">
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-13"></i></div>
-                                <h4><a href="service-details-2.php">Mutual Funds</a></h4>
+                                <h4><a href="service-details.php">Mutual Funds</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>NFO</li>
                                     <li>Goal planning</li>
@@ -198,7 +197,7 @@
                             <div class="inner-box">
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-14"></i></div>
-                                <h4><a href="service-details-3.php">Portfolio Management</a></h4>
+                                <h4><a href="service-details.php">Portfolio Management</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>Asset Allocation</li>
                                     <li>Security Selection</li>
@@ -212,7 +211,7 @@
                             <div class="inner-box">
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-15"></i></div>
-                                <h4><a href="service-details-4.php">Insurance</a></h4>
+                                <h4><a href="service-details.php">Insurance</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>Life insurance</li>
                                     <li>Health  insurance</li>

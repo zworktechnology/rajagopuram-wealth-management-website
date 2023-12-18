@@ -30,8 +30,7 @@
                                     <ul class="links-list clearfix">
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About Us</a></li>
-                                        <li><a href="service-2.php">Services</a></li>
-                                        <li><a href="blog.php">Blog</a></li>
+                                        <li><a href="service.php">Services</a></li>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </div>

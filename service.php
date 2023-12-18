@@ -100,8 +100,8 @@
                 <div class="large-container">
                     <div class="top-inner">
                         <ul class="links-list clearfix">
-                            <li><a href="javascript:void(0)">Terms and Conditions</a></li>
-                            <li><a href="javascript:void(0)">Privacy Policy</a></li>
+                          <!--  <li><a href="javascript:void(0)">Terms and Conditions</a></li>
+                            <li><a href="javascript:void(0)">Privacy Policy</a></li>-->
                         </ul>
                         <ul class="info-list clearfix">
                             <li>
@@ -136,16 +136,15 @@
                                     <ul class="navigation clearfix">
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About</a></li>
-                                        <li class="dropdown"><a href="service-2.php">Services</a>
+                                        <li class="dropdown"><a href="service.php">Services</a>
                                             <ul>
-                                                <li><a href="service-details.php">Share Market</a></li>
-                                                <li><a href="service-details.php">Mutual Funds</a></li>
-                                                <li><a href="service-details.php">Portfolio Management</a></li>
-                                                <li><a href="service-details.php">Insurance</a></li>
-                                                <li><a href="service-details.php">Chit Funds</a></li>
+                                                <li><a href="javascript:void(0)">Share Market</a></li>
+                                                <li><a href="javascript:void(0)">Mutual Funds</a></li>
+                                                <li><a href="javascript:void(0)">Portfolio Management</a></li>
+                                                <li><a href="javascript:void(0)">Insurance</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="blog.php">Blog</a></li>
+                                        <li><a href="javascript:void(0)">Blog</a></li>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </div>
@@ -182,7 +181,6 @@
         </header>
         <!-- main-header end -->
 
-
         <!-- Mobile Menu  -->
         <div class="mobile-menu">
             <div class="menu-backdrop"></div>
@@ -205,7 +203,7 @@
                 </div>
                 <div class="social-links">
                     <ul class="clearfix">
-                        <li><a href="https://www.facebook.com/rajagopuramwealth" target="_blank" ><span class="fab fa-facebook"></span></a></li>
+                        <li><a href="https://www.facebook.com/rajagopuramwealth" target="_blank"><span class="fab fa-facebook"></span></a></li>
                         <li><a href="https://www.instagram.com/rajagopuram_wealth/" target="_blank"><span class="fab fa-instagram"></span></a></li>
                         <li><a href="https://www.youtube.com/@rajagopuram4920" target="_blank"><span class="fab fa-youtube"></span></a></li>
                     </ul>

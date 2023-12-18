@@ -86,7 +86,7 @@
             </div>
             <div class="footer-bottom centred">
                 <div class="pull-left">
-                    <div class="copyright"><p style="margin-left:100px;">Copyright © 2023 by <span style="color:#ff4900">Rajagopuram</span>./ All Right Reserved.</p></div>
+                    <div class="copyright"><p style="margin-left:100px;">Copyright © 2023 by <span style="color:#ff4900">Rajagopuram</span>. All Right Reserved.</p></div>
                 </div>
                 <div class="pull-right">
                     <div class="copyright"><p style="margin-right:100px;">Crafted by <a href="https://zworktechnology.com/" target="_blank">zworktechnology.com</a></p></div>

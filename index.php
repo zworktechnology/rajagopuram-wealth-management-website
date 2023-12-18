@@ -232,7 +232,7 @@
                 <div class="inner-box">
                     <h2>The 3rd Generation Private Commercial Bank</h2>
                     <div class="video-btn">
-                        <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&t=28s" class="lightbox-image" data-caption="">
+                        <a href="https://www.youtube.com/watch?v=K2D2-QgL6UM" class="lightbox-image" data-caption="">
                             <i class="icon-20"></i>
                             <span class="border-animation border-1"></span>
                             <span class="border-animation border-2"></span>

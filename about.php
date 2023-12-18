@@ -262,8 +262,8 @@
                                 </div>
                                 <div class="experience-box">
                                     <div class="inner">
-                                        <h2>19</h2>
-                                        <h6>Years of Experiense</h6>
+                                        <h2>18+</h2>
+                                        <h6>Years of Experience</h6>
                                     </div>
                                 </div>
                             </div>
@@ -323,9 +323,9 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-22"></i></div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="90">0</span><span>Bn</span>
+                                <span class="count-text" data-speed="1500" data-stop="18">0</span><span>+</span>
                             </div>
-                            <p>Total Transection</p>
+                            <p>Years of Experience</p>
                         </div>
                     </div>
                     <div class="funfact-block-one">
@@ -350,7 +350,7 @@
                 <div class="inner-box">
                     <h2>The 3rd Generation Private Commercial Bank</h2>
                     <div class="video-btn">
-                        <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&t=28s" class="lightbox-image" data-caption="">
+                        <a href="https://www.youtube.com/watch?v=K2D2-QgL6UM" class="lightbox-image" data-caption="">
                             <i class="icon-20"></i>
                             <span class="border-animation border-1"></span>
                             <span class="border-animation border-2"></span>

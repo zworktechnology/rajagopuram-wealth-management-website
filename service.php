@@ -243,10 +243,10 @@
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <figure class="image-box"><a href="service-details.php"><img src="assets/images/service/service-5.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="javascript:void(0)"><img src="assets/images/service/service-5.jpg" alt=""></a></figure>
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-12"></i></div>
-                                <h4><a href="service-details.php">Share Market</a></h4>
+                                <h4><a href="javascript:void(0)">Share Market</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>Bank & savings accounts</li>
                                     <li>Credit cards</li>
@@ -257,10 +257,10 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <figure class="image-box"><a href="service-details-2.php"><img src="assets/images/service/service-6.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="javascript:void(0)"><img src="assets/images/service/service-6.jpg" alt=""></a></figure>
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-13"></i></div>
-                                <h4><a href="service-details.php">Mutual Funds</a></h4>
+                                <h4><a href="javascript:void(0)">Mutual Funds</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>Instant Access</li>
                                     <li>Savings Fixed Term</li>
@@ -271,10 +271,10 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
-                            <figure class="image-box"><a href="service-details-3.php"><img src="assets/images/service/service-7.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="javascript:void(0)"><img src="assets/images/service/service-7.jpg" alt=""></a></figure>
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-14"></i></div>
-                                <h4><a href="service-details.php">Portfolio Management</a></h4>
+                                <h4><a href="javascript:void(0)">Portfolio Management</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>Pet insurance</li>
                                     <li>Transport Insurance</li>
@@ -285,10 +285,10 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated" data-wow-delay="900ms" data-wow-duration="1500ms">
-                            <figure class="image-box"><a href="service-details-4.php"><img src="assets/images/service/service-8.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="javascript:void(0)"><img src="assets/images/service/service-8.jpg" alt=""></a></figure>
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-15"></i></div>
-                                <h4><a href="service-details.php">Insurance</a></h4>
+                                <h4><a href="javascript:void(0)">Insurance</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>Residential Mortgages</li>
                                     <li>Buy-to-let Mortgages</li>
@@ -297,12 +297,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                    <!-- <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <figure class="image-box"><a href="service-details-5.php"><img src="assets/images/service/service-9.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="javascript:void(0)"><img src="assets/images/service/service-9.jpg" alt=""></a></figure>
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-16"></i></div>
-                                <h4><a href="service-details.php">Chit Funds</a></h4>
+                                <h4><a href="javascript:void(0)">Chit Funds</a></h4>
                                 <ul class="list-item clearfix">
                                     <li>nstant Access Savings</li>
                                     <li>Instant Access Cash</li>
@@ -310,7 +310,7 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>

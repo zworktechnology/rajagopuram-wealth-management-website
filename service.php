@@ -138,10 +138,10 @@
                                         <li><a href="about.php">About</a></li>
                                         <li class="dropdown"><a href="service.php">Services</a>
                                             <ul>
-                                                <li><a href="javascript:void(0)">Share Market</a></li>
-                                                <li><a href="javascript:void(0)">Mutual Funds</a></li>
-                                                <li><a href="javascript:void(0)">Portfolio Management</a></li>
-                                                <li><a href="javascript:void(0)">Insurance</a></li>
+                                                <li><a href="service-details.php">Share Market</a></li>
+                                                <li><a href="service-details.php">Mutual Funds</a></li>
+                                                <li><a href="service-details.php">Portfolio Management</a></li>
+                                                <li><a href="service-details.php">Insurance</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="javascript:void(0)">Blog</a></li>
@@ -215,7 +215,7 @@
 
         <!-- page-title -->
         <section class="page-title centred">
-            <div class="bg-layer" style="background-image: url(assets/images/background/page-title.jpg);"></div>
+            <div class="bg-layer" style="background-image: url(assets/images/background/page-title1.jpg);"></div>
             <div class="pattern-layer">
                 <div class="pattern-1" style="background-image: url(assets/images/shape/shape-18.png);"></div>
                 <div class="pattern-2" style="background-image: url(assets/images/shape/shape-17.png);"></div>
@@ -238,7 +238,7 @@
             <div class="auto-container">
                 <div class="sec-title centred mb_60">
                     <h6>Our Services</h6>
-                    <h2>Financial Services</h2>
+                    <h2>Empowering Your Financial Future<br> Through Smart Investments</h2>
                 </div>
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
@@ -247,13 +247,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-12"></i></div>
                                 <h4><a href="javascript:void(0)">Share Market</a></h4>
-                                <ul class="list-item clearfix">
-                                    <li>  Equity market</li>
-                                    <li> Future and options</li>
-                                    <li> Currency and derivatives</li>
-                                    <li> Commodities </li>
-                                    <li> IPO</li>
-                                </ul>
+                                Gain from expert insights in the share market, unlocking strategic investment opportunities for financial growth.<br><br>
                             </div>
                         </div>
                     </div>
@@ -263,13 +257,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-13"></i></div>
                                 <h4><a href="javascript:void(0)">Mutual Funds</a></h4>
-                                <ul class="list-item clearfix">
-                                    <li>NFO</li>
-                                    <li>Goal planning</li>
-                                    <li>Child education</li>
-                                    <li> Travel planning</li>
-                                    <li> Retirement planning</li>
-                                </ul>
+                                Experience intelligent investing with personalized mutual fund solutions, tailored for enduring wealth accumulation.<br><br>
                             </div>
                         </div>
                     </div>
@@ -279,13 +267,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-14"></i></div>
                                 <h4><a href="javascript:void(0)">Portfolio Management</a></h4>
-                                <ul class="list-item clearfix">
-                                    <li>Asset Allocation</li>
-                                    <li>Security Selection</li>
-                                    <li>Tax Efficiency</li>
-                                    <br>
-                                    <br>
-                                </ul>
+                                Maximize returns while minimizing risks through customized portfolio management, ensuring financial success.
                             </div>
                         </div>
                     </div>
@@ -295,13 +277,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-15"></i></div>
                                 <h4><a href="javascript:void(0)">Insurance</a></h4>
-                                <ul class="list-item clearfix">
-                                    <li>Life insurance</li>
-                                    <li>Health  insurance</li>
-                                    <li>General  insurance</li>
-                                    <br>
-                                    <br>
-                                </ul>
+                                Ensure comprehensive protection for what matters most in life, securing your future with our insurance solutions.<br><br>
                             </div>
                         </div>
                     </div>

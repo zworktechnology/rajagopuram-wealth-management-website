@@ -10,7 +10,7 @@
                         <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget logo-widget">
                                 <figure class="footer-logo"><a href="index.php"><img src="assets/images/logo-2.png" alt=""></a></figure>
-                                <p>Tincidunt neque pretium lectus donec risus. Mauris mi tempor nunc orc leo consequat vitae erat gravida lobortis nec et sagittis.</p>
+                                <p>Elevate your financial journey with Rajagopuram Wealth. Your Partner for Prosperity and Lasting Success.</p>
                                 <ul class="social-links">
                                     <li><a href="https://www.facebook.com/rajagopuramwealth" target="_blank" ><span class="fab fa-facebook"></span></a></li>
                                     <li><a href="https://www.instagram.com/rajagopuram_wealth/" target="_blank"><span class="fab fa-instagram"></span></a></li>

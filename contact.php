@@ -138,10 +138,10 @@
                                         <li><a href="about.php">About</a></li>
                                         <li class="dropdown"><a href="service.php">Services</a>
                                             <ul>
-                                                <li><a href="javascript:void(0)">Share Market</a></li>
-                                                <li><a href="javascript:void(0)">Mutual Funds</a></li>
-                                                <li><a href="javascript:void(0)">Portfolio Management</a></li>
-                                                <li><a href="javascript:void(0)">Insurance</a></li>
+                                                <li><a href="service-details.php">Share Market</a></li>
+                                                <li><a href="service-details.php">Mutual Funds</a></li>
+                                                <li><a href="service-details.php">Portfolio Management</a></li>
+                                                <li><a href="service-details.php">Insurance</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="javascript:void(0)">Blog</a></li>
@@ -215,7 +215,7 @@
 
         <!-- page-title -->
         <section class="page-title centred">
-            <div class="bg-layer" style="background-image: url(assets/images/background/page-title.jpg);"></div>
+            <div class="bg-layer" style="background-image: url(assets/images/background/page-title2.jpg);"></div>
             <div class="pattern-layer">
                 <div class="pattern-1" style="background-image: url(assets/images/shape/shape-18.png);"></div>
                 <div class="pattern-2" style="background-image: url(assets/images/shape/shape-17.png);"></div>

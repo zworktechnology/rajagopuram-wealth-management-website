@@ -11,24 +11,8 @@
                     </div>
                     <div class="auto-container">
                         <div class="content-box">
-                            <h2>Open your <span>Demat</span> account with IIFL, Free of cost</h2>
-                            <p>In just 5 minutes and Start Trading in 30 minutes.</p>
-                            <div class="btn-box">
-                                <a href="contact.php" class="theme-btn btn-one">Contact Us</a>
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-                <!-- <div class="slide-item p_relative">
-                    <div class="bg-layer" style="background-image: url(assets/images/banner/banner-2.jpg);"></div>
-                    <div class="pattern-layer">
-                        <div class="pattern-1" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                        <div class="pattern-2" style="background-image: url(assets/images/shape/shape-2.png);"></div>
-                    </div>
-                    <div class="auto-container">
-                    <div class="content-box">
-                            <h2>Open your <span>Demat</span> account with IIFL, Free of cost</h2>
-                            <p>In just 5 minutes and Start Trading in 30 minutes.</p>
+                            <h2><span>Zero-Cost</span> IIFL Demat: Your Path to Prosperity.</h2>
+                            <p>Just 5-min registration, trading within just 30 mins at IIFL Demat</p>
                             <div class="btn-box">
                                 <a href="contact.php" class="theme-btn btn-one">Contact Us</a>
                             </div>
@@ -36,6 +20,22 @@
                     </div>
                 </div>
                 <div class="slide-item p_relative">
+                    <div class="bg-layer" style="background-image: url(assets/images/banner/banner-2.jpg);"></div>
+                    <div class="pattern-layer">
+                        <div class="pattern-1" style="background-image: url(assets/images/shape/shape-1.png);"></div>
+                        <div class="pattern-2" style="background-image: url(assets/images/shape/shape-2.png);"></div>
+                    </div>
+                    <div class="auto-container">
+                    <div class="content-box">
+                            <h2><span>Infinite </span>Wealth, One Reliable Partner.</h2>
+                            <p>Redefining wealth management—discover comprehensive solutions and unmatched service at Rajagopuram.</p>
+                            <div class="btn-box">
+                                <a href="contact.php" class="theme-btn btn-one">Contact Us</a>
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+                <!-- <div class="slide-item p_relative">
                     <div class="bg-layer" style="background-image: url(assets/images/banner/banner-3.jpg);"></div>
                     <div class="pattern-layer">
                         <div class="pattern-1" style="background-image: url(assets/images/shape/shape-1.png);"></div>
@@ -64,28 +64,28 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-5"></i></div>
                             <h4><a href="javascript:void(0)">Customer-Centric Approach</a></h4>
-                            <p>Our customers are at the heart of everything we do. We prioritize your satisfaction and strive to exceed your expectations at every interaction.</p>
+                            <p>Tailored solutions, personalized service - your financial journey is our priority.</p>
                         </div>
                     </div>
                     <div class="feature-block-one">
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-7"></i></div>
                             <h4><a href="javascript:void(0)">Competitive Pricing</a></h4>
-                            <p>We offer competitive and fair pricing for our products/services, ensuring that you receive excellent value for your investment.<br><br></p>
+                            <p>Unlock financial potential with competitive prices - your gateway to value and growth.<br><br></p>
                         </div>
                     </div>
                     <div class="feature-block-one">
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-8"></i></div>
                             <h4><a href="javascript:void(0)">Commitment to Quality</a></h4>
-                            <p>Quality is non-negotiable for us. From product/service delivery to customer support, we maintain the highest standards to ensure your satisfaction.<br><br></p>
+                            <p>Excellence embedded in every service - your assurance for enduring financial success.<br><br></p>
                         </div>
                     </div>
                     <div class="feature-block-one">
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-6"></i></div>
                             <h4><a href="javascript:void(0)">Customer Support</a></h4>
-                            <p>Our dedicated customer support team is available 24/7 to assist you. Your inquiries and concerns are our top priority.<br><br><br></p>
+                            <p>24x7 guidance for financial confidence - our commitment for your peace of mind.<br><br></p>
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                                         <li><i class="icon-9"></i></li>
                                         <li><i class="icon-9"></i></li>
                                     </ul>
-                                    <h6>5 Star Rating Bank</h6>
+                                    <h6>5 Star Rating</h6>
                                 </div>
                                 <div class="experience-box">
                                     <div class="inner">
@@ -128,17 +128,16 @@
                             <div class="content-box ml_40">
                                 <div class="sec-title mb_20">
                                     <h6>About US</h6>
-                                    <h2>Financial Guidance for Every Stage of Life.</h2>
+                                    <h2>Rajagopuram Wealth Management : Nurturing Prosperity, Tailoring Financial Success</h2>
                                 </div>
                                 <div class="text-box mb_40">
                                     <ul class="one">
-                                        <li>&#8226;&nbsp;&nbsp;   At Rajagopuram Wealth Management, we firmly believe in the importance of tailor-made solutions that suit the unique needs of our clients. This people-centric focus has fostered enduring relationships spanning decades and generations with our customers.</li>
-                                        <li>&#8226;&nbsp;&nbsp;   We operate our business from our own building, spanning approximately 1200 square feet, providing a solid foundation for trust and reliability.</li>
-                                        <li>&#8226;&nbsp;&nbsp;   Rajagopuram Wealth Management has been operating from Trichy Srirangam since 2004, promoted by Shri S. Moorthy, who brings over 18 years of experience in the industry. The passion for serving our ever-growing client base, coupled with a commitment to customer delight, propels us to achieve new heights of professional excellence.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   At Rajagopuram Wealth Management, our commitment to tailor-made solutions underscores enduring relationships with clients over decades. Operating from our own 1200-square-foot building, we establish a solid foundation of trust and reliability. Founded in 2004 in Trichy Srirangam by industry veteran Shri S. Moorthy, our passion for client satisfaction, coupled with over 18 years of experience, propels us to achieve new heights of professional excellence.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   We blend personalized service, a solid infrastructure, and seasoned leadership, ensuring a compelling financial journey for our ever-growing client base.</li>
                                     </ul>
                                 </div>
                                 <div class="btn-box">
-                                    <a href="service.php" class="theme-btn btn-one">Discover More</a>
+                                    <a href="about.php" class="theme-btn btn-one">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -164,13 +163,7 @@
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-12"></i></div>
                                 <h4><a href="javascript:void(0)">Share Market</a></h4>
-                                <ul class="list-item clearfix">
-                                    <li>  Equity market</li>
-                                    <li> Future and options</li>
-                                    <li> Currency and derivatives</li>
-                                    <li> Commodities </li>
-                                    <li> IPO</li>
-                                </ul>
+                                Gain from expert insights in the share market, unlocking strategic investment opportunities for financial growth.<br><br>
                             </div>
                         </div>
                     </div>
@@ -180,13 +173,7 @@
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-13"></i></div>
                                 <h4><a href="javascript:void(0)">Mutual Funds</a></h4>
-                                <ul class="list-item clearfix">
-                                    <li>NFO</li>
-                                    <li>Goal planning</li>
-                                    <li>Child education</li>
-                                    <li> Travel planning</li>
-                                    <li> Retirement planning</li>
-                                </ul>
+                                Experience intelligent investing with personalized mutual fund solutions, tailored for enduring wealth accumulation.<br><br>
                             </div>
                         </div>
                     </div>
@@ -196,13 +183,7 @@
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-14"></i></div>
                                 <h4><a href="javascript:void(0)">Portfolio Management</a></h4>
-                                <ul class="list-item clearfix">
-                                    <li>Asset Allocation</li>
-                                    <li>Security Selection</li>
-                                    <li>Tax Efficiency</li>
-                                    <br>
-                                    <br>
-                                </ul>
+                                Maximize returns while minimizing risks through customized portfolio management, ensuring financial success.
                             </div>
                         </div>
                     </div>
@@ -212,13 +193,7 @@
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-15"></i></div>
                                 <h4><a href="javascript:void(0)">Insurance</a></h4>
-                                <ul class="list-item clearfix">
-                                    <li>Life insurance</li>
-                                    <li>Health  insurance</li>
-                                    <li>General  insurance</li>
-                                    <br>
-                                    <br>
-                                </ul>
+                                Ensure comprehensive protection for what matters most in life, securing your future with our insurance solutions.<br><br>
                             </div>
                         </div>
                     </div>

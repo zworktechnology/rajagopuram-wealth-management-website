@@ -145,10 +145,10 @@
                                         <li><a href="about.php">About</a></li>
                                         <li class="dropdown"><a href="service.php">Services</a>
                                             <ul>
-                                                <li><a href="javascript:void(0)">Share Market</a></li>
-                                                <li><a href="javascript:void(0)">Mutual Funds</a></li>
-                                                <li><a href="javascript:void(0)">Portfolio Management</a></li>
-                                                <li><a href="javascript:void(0)">Insurance</a></li>
+                                                <li><a href="service-details.php">Share Market</a></li>
+                                                <li><a href="service-details.php">Mutual Funds</a></li>
+                                                <li><a href="service-details.php">Portfolio Management</a></li>
+                                                <li><a href="service-details.php">Insurance</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="javascript:void(0)">Blog</a></li>
@@ -249,7 +249,7 @@
                         <div class="image_block_one">
                             <div class="image-box pr_90 mr_40">
                                 <div class="image-shape" style="background-image: url(assets/images/shape/shape-3.png);"></div>
-                                <figure class="image"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/resource/about-2.jpg" alt=""></figure>
                                 <div class="rating-box">
                                     <ul class="rating mb_5 clearfix">
                                         <li><i class="icon-9"></i></li>
@@ -258,7 +258,7 @@
                                         <li><i class="icon-9"></i></li>
                                         <li><i class="icon-9"></i></li>
                                     </ul>
-                                    <h6>5 Star Rating Bank</h6>
+                                    <h6>5 Star Rating</h6>
                                 </div>
                                 <div class="experience-box">
                                     <div class="inner">
@@ -274,13 +274,12 @@
                             <div class="content-box ml_40">
                                 <div class="sec-title mb_20">
                                     <h6>About US</h6>
-                                    <h2>Financial Guidance for Every Stage of Life.</h2>
+                                    <h2>Rajagopuram Wealth : Crafting Financial Success</h2>
                                 </div>
                                 <div class="text-box mb_40">
                                     <ul class="one">
-                                        <li>&#8226;&nbsp;&nbsp;   The legacy of trust and integrity under the brand 'Rajagopuram Wealth Management' is deeply gratifying and has led to the establishment of "Rajagopuram Wealth Management Services," where comprehensive financial solutions are available under one roof. Our growth has largely been organic, with key partnerships solidifying our position as the most reliable Wealth Management firm in Trichy.</li>
-                                        <li>&#8226;&nbsp;&nbsp;   We cater to various industries, serving over 1000+ customers, including individuals, corporates, retailers, and small and medium business owners. Our expert team excels in providing the right solutions, maintaining a 'customer-first' focus.</li>
-                                        <li>&#8226;&nbsp;&nbsp;   Rajagopuram Wealth Management has received numerous awards, including the prestigious "BEST CUSTOMER SATISFACTION" award for three consecutive years, recognizing our excellent 24x7 customer support services. We have strategically partnered with IIFL SECURITIES to further enhance our services.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   At Rajagopuram Wealth Management, our commitment to tailor-made solutions underscores enduring relationships with clients over decades. Operating from our own 1200-square-foot building, we establish a solid foundation of trust and reliability. Founded in 2004 in Trichy Srirangam by industry veteran Shri S. Moorthy, our passion for client satisfaction, coupled with over 18 years of experience, propels us to achieve new heights of professional excellence.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   We blend personalized service, a solid infrastructure, and seasoned leadership, ensuring a compelling financial journey for our ever-growing client base.</li>
                                     </ul>
                                 </div>
                                 
@@ -363,7 +362,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-5"></i></div>
                                 <h4><a href="javascript:void(0)">Expertise and Experience</a></h4>
-                                <p>With 18+ Years of experience in Providing Financial services, our team brings a wealth<br> of expertise to meet your needs.<br><br></p>
+                                <p>Navigating wealth with seasoned expertise—decades of proven experience guiding your financial success.</p>
                             </div>
                         </div>
                     </div>
@@ -372,7 +371,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-6"></i></div>
                                 <h4><a href="javascript:void(0)">Innovation and Technology</a></h4>
-                                <p>We stay at the forefront of industry trends, leveraging the latest innovations and technologies to provide you with cutting-edge solutions.<br><br></p>
+                                <p>Futuristic solutions for today—where innovation and technology shape your optimal financial trajectory.</p>
                             </div>
                         </div>
                     </div>
@@ -381,7 +380,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-7"></i></div>
                                 <h4><a href="javascript:void(0)">Tailor-Made <br>Solutions</a></h4>
-                                <p>Recognizing that every customer is unique, we offer personalized solutions that align with your specific requirements and goals.<br><br></p>
+                                <p>Your financial blueprint—crafted solutions tailored to your unique aspirations and wealth objectives.</p>
                             </div>
                         </div>
                     </div>
@@ -390,7 +389,7 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-8"></i></div>
                                 <h4><a href="javascript:void(0)">Transparency and Integrity</a></h4>
-                                <p>Our commitment to transparency and integrity is unwavering. You can trust us to operate with honesty, openness, and ethical practices.</p>
+                                <p>Built on trust—our commitment to transparency and integrity ensures a secure financial partnership.</p>
                             </div>
                         </div>
                     </div>
@@ -408,7 +407,7 @@
                         <div class="sec-title mr_70">
                             <h6>Testimonials</h6>
                             <h2>Love from Happy Clients</h2>
-                            <p>Amet dui scelerisque habitant eget tincidunt facilisis pretium lorem ipsum dilore. </p>
+                            <p>"Building Trust, Growing Business"</p>
                         </div>
                     </div>
                     <div class="col-lg-8 col-md-12 col-sm-12 content-column">
@@ -417,8 +416,8 @@
                                 <div class="inner-box">
                                     <div class="author-box">
                                         <figure class="thumb-box"><img src="assets/images/resource/testimonial-4.png" alt=""></figure>
-                                        <h4>Julien Anthor</h4>
-                                        <span class="designation">Manager</span>
+                                        <h4>Happy Customers</h4>
+                                        <span class="designation">Google review</span>
                                     </div>
                                     <ul class="rating mb_15 clearfix">
                                         <li><i class="icon-9"></i></li>
@@ -427,15 +426,15 @@
                                         <li><i class="icon-9"></i></li>
                                         <li><i class="icon-9"></i></li>
                                     </ul>
-                                    <p>“Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque etiam nis quis at arcu nunc neque ac integer sit lobortis diam semper nulla duis in blandit.”</p>
+                                    <p>“Rajagopuram really knows their stuff! They took my money matters seriously, and now I'm stress-free.”</p>
                                 </div>
                             </div>
                             <div class="testimonial-block-two">
                                 <div class="inner-box">
                                     <div class="author-box">
                                         <figure class="thumb-box"><img src="assets/images/resource/testimonial-5.png" alt=""></figure>
-                                        <h4>Rolier Demonil</h4>
-                                        <span class="designation">Manager</span>
+                                        <h4>Happy Customers</h4>
+                                        <span class="designation">Google review</span>
                                     </div>
                                     <ul class="rating mb_15 clearfix">
                                         <li><i class="icon-9"></i></li>
@@ -444,7 +443,41 @@
                                         <li><i class="icon-9"></i></li>
                                         <li><i class="icon-9"></i></li>
                                     </ul>
-                                    <p>“Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque etiam nis quis at arcu nunc neque ac integer sit lobortis diam semper nulla duis in blandit.”</p>
+                                    <p>“These guys at Rajagopuram are like financial wizards. They made my money work harder for me!”</p>
+                                </div>
+                            </div>
+                            <div class="testimonial-block-two">
+                                <div class="inner-box">
+                                    <div class="author-box">
+                                        <figure class="thumb-box"><img src="assets/images/resource/testimonial-5.png" alt=""></figure>
+                                        <h4>Happy Customers</h4>
+                                        <span class="designation">Google review</span>
+                                    </div>
+                                    <ul class="rating mb_15 clearfix">
+                                        <li><i class="icon-9"></i></li>
+                                        <li><i class="icon-9"></i></li>
+                                        <li><i class="icon-9"></i></li>
+                                        <li><i class="icon-9"></i></li>
+                                        <li><i class="icon-9"></i></li>
+                                    </ul>
+                                    <p>“Rajagopuram feels like family. They're not just about money; they care about my dreams.”</p>
+                                </div>
+                            </div>
+                            <div class="testimonial-block-two">
+                                <div class="inner-box">
+                                    <div class="author-box">
+                                        <figure class="thumb-box"><img src="assets/images/resource/testimonial-5.png" alt=""></figure>
+                                        <h4>Happy Customers</h4>
+                                        <span class="designation">Google review</span>
+                                    </div>
+                                    <ul class="rating mb_15 clearfix">
+                                        <li><i class="icon-9"></i></li>
+                                        <li><i class="icon-9"></i></li>
+                                        <li><i class="icon-9"></i></li>
+                                        <li><i class="icon-9"></i></li>
+                                        <li><i class="icon-9"></i></li>
+                                    </ul>
+                                    <p>“Rajagopuram made me feel like a VIP. They customized a plan that fits my goals<br> perfectly.”</p>
                                 </div>
                             </div>
                         </div>

@@ -220,15 +220,15 @@ h1,h2,h3,h4,h5,h6{
   top: 0;
   width: 100%;
   z-index: 9999999;
-  background: #ff4900;
+  background: white;
 }
 
 .preloader-close{
   position: fixed;
   z-index: 99999999;
   font-size: 14px;
-  background: #fff;
-  color: red;
+  background: #ff4900;
+  color: white;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -278,7 +278,8 @@ h1,h2,h3,h4,h5,h6{
   text-transform: uppercase;
   color: transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: rgba(255, 255, 255, 0.30);
+  /* -webkit-text-stroke-color: rgba(255, 255, 255, 0.30); */
+  -webkit-text-stroke-color: #ff4900;
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(2):before {animation-delay: 0.2s;}
@@ -291,7 +292,7 @@ h1,h2,h3,h4,h5,h6{
 .handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(9):before { animation-delay: 1.6s;}
 .handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(10):before { animation-delay: 1.8s;}
 .handle-preloader .loader-section {
-  background-color: #ffffff;
+  background-color: #ff4900;
   height: 100%;
   position: fixed;
   top: 0;
@@ -304,12 +305,13 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading:before{
-  color: #ffffff;
+  color: #ff4900;
 }
 
 .handle-preloader .animation-preloader .spinner{
-  border: 3px solid #ffffff;
-  border-top-color: rgba(255, 255, 255, 0.5); 
+  border: 3px solid #ff4900;
+  /* border-top-color: rgba(255, 255, 255, 0.5);  */
+  border-top-color: #ff4900;
 }
 
 /* AnimaciÃ³n del preloader */

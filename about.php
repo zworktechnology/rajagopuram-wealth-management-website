@@ -258,7 +258,7 @@
                                         <li><i class="icon-9"></i></li>
                                         <li><i class="icon-9"></i></li>
                                     </ul>
-                                    <h6>5 Star Rating</h6>
+                                    <h6>5 Star Rating From Google</h6>
                                 </div>
                                 <div class="experience-box">
                                     <div class="inner">
@@ -278,8 +278,9 @@
                                 </div>
                                 <div class="text-box mb_40">
                                     <ul class="one">
-                                        <li>&#8226;&nbsp;&nbsp;   At Rajagopuram Wealth Management, our commitment to tailor-made solutions underscores enduring relationships with clients over decades. Operating from our own 1200-square-foot building, we establish a solid foundation of trust and reliability. Founded in 2004 in Trichy Srirangam by industry veteran Shri S. Moorthy, our passion for client satisfaction, coupled with over 18 years of experience, propels us to achieve new heights of professional excellence.</li>
-                                        <li>&#8226;&nbsp;&nbsp;   We blend personalized service, a solid infrastructure, and seasoned leadership, ensuring a compelling financial journey for our ever-growing client base.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   The legacy of trust and integrity under the brand 'Rajagopuram Wealth Management' is deeply gratifying and has led to the establishment of "Rajagopuram Wealth Management Services," where comprehensive financial solutions are available under one roof. Our growth has largely been organic, with key partnerships solidifying our position as the most reliable Wealth Management firm in Trichy.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   Rajagopuram Wealth Management has received numerous awards, including the prestigious "BEST CUSTOMER SATISFACTION" award for three consecutive years, recognizing our excellent 24x7 customer support services. We have strategically partnered with IIFL SECURITIES to further enhance our services.</li>
+                                        <li>&#8226;&nbsp;&nbsp;   We offer a complete range of products, including Shares, Mutual Funds, and Insurance. Our commitment extends to providing end-to-end solutions for all our services and products. In addition to shares, mutual funds, and insurance, we assist our clients with various loans, such as Home loans, mortgage loans, I CARE services, and Financial Planning.</li>
                                     </ul>
                                 </div>
                                 
@@ -334,7 +335,7 @@
             <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/video-bg.jpg);"></div>
             <div class="auto-container">
                 <div class="inner-box">
-                    <h2>Financial Services</h2>
+                    <h2>Commodity Trading Currency Trading Insurance</h2>
                     <div class="video-btn">
                         <a href="https://www.youtube.com/watch?v=K2D2-QgL6UM" class="lightbox-image" data-caption="">
                             <i class="icon-20"></i>
@@ -361,8 +362,8 @@
                         <div class="feature-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-5"></i></div>
-                                <h4><a href="javascript:void(0)">Expertise and Experience</a></h4>
-                                <p>Navigating wealth with seasoned expertise—decades of proven experience guiding your financial success.</p>
+                                <h4><a href="javascript:void(0)">Customer-Centric Approach</a></h4>
+                                <p>Tailored solutions, personalized service - your financial journey is our priority.<br><br></p>
                             </div>
                         </div>
                     </div>
@@ -370,8 +371,8 @@
                         <div class="feature-block-one wow fadeInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-6"></i></div>
-                                <h4><a href="javascript:void(0)">Innovation and Technology</a></h4>
-                                <p>Futuristic solutions for today—where innovation and technology shape your optimal financial trajectory.</p>
+                                <h4><a href="javascript:void(0)">Competitive Pricing</a></h4>
+                                <p>Unlock financial potential with competitive prices - your gateway to value and growth.<br><br><br></p>
                             </div>
                         </div>
                     </div>

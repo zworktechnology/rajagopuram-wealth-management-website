@@ -243,7 +243,7 @@
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <figure class="image-box"><a href="share_market.php"><img src="assets/images/service/service-5.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="share_market.php"><img src="assets/images/services/share_market1.jpg" alt=""></a></figure>
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-12"></i></div>
                                 <h4><a href="share_market.php">Share Market</a></h4>
@@ -258,7 +258,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <figure class="image-box"><a href="mutual_funds.php"><img src="assets/images/service/service-6.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="mutual_funds.php"><img src="assets/images/services/mutual_funds1.jpg" alt=""></a></figure>
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-13"></i></div>
                                 <h4><a href="mutual_funds.php">Mutual Funds</a></h4>
@@ -273,7 +273,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
-                            <figure class="image-box"><a href="portfolio_management.php"><img src="assets/images/service/service-7.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="portfolio_management.php"><img src="assets/images/services/portfolio_management1.jpg" alt=""></a></figure>
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-14"></i></div>
                                 <h4><a href="portfolio_management.php">Portfolio Management</a></h4>
@@ -288,7 +288,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated" data-wow-delay="900ms" data-wow-duration="1500ms">
-                            <figure class="image-box"><a href="insurance.php"><img src="assets/images/service/service-8.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="insurance.php"><img src="assets/images/services/insurance1.jpg" alt=""></a></figure>
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-15"></i></div>
                                 <h4><a href="insurance.php">Insurance</a></h4>

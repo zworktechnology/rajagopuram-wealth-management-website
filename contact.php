@@ -246,7 +246,8 @@
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-2"></i></div>
                                 <h3>Our Location</h3>
-                                <p>No.179 G4, West Chithirai Street,<br>Srirangam,Trichy- 620006</p>
+                                <p><b>C.O :</b>  West Chithirai Street, Srirangam</p>
+                                <p><b>B.O :</b>  BHEL , Trichy</p>
                             </div>
                         </div>
                     </div>
@@ -256,6 +257,7 @@
                                 <div class="icon-box"><i class="icon-43"></i></div>
                                 <h3>Email Address</h3>
                                 <p><a href="mailto:support@rajagopuram.in">support@rajagopuram.in</a><br></p>
+                                <p><a href="mailto:rajagopuram@gmail.com">rajagopuram@gmail.com</a><br></p>
                             </div>
                         </div>
                     </div>
@@ -292,16 +294,16 @@
                     <h2>Contact Details</h2>
                 </div>
                 <div class="form-inner">
-                    <form method="post" action="sendemail.php" id="contact-form" class="default-form">
+                    <form method="post" action="mail.php" id="contact-form" class="default-form" autocomplete="off">
                         <div class="row clearfix">
                             <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                <input type="text" name="username" placeholder="Your Name" required="">
+                                <input type="text" name="name" placeholder="Your Name" required="">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                 <input type="email" name="email" placeholder="Your email" required="">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                <input type="text" name="phone" required="" placeholder="Phone">
+                                <input type="text" name="mobile" required="" placeholder="Mobile Number">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                 <input type="text" name="subject" required="" placeholder="Subject">
@@ -310,7 +312,7 @@
                                 <textarea name="message" placeholder="Type message"></textarea>
                             </div>
                             <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn centred">
-                                <button class="theme-btn btn-one" type="submit" name="submit-form">Send Message</button>
+                                <button class="theme-btn btn-one" type="submit" name="submit">Send Message</button>
                             </div>
                         </div>
                     </form>

@@ -279,7 +279,7 @@
             <div class="auto-container">
                 <div class="sec-title mb_110"> 
                     <h6>Our process</h6>
-                    <h2>Open your insurance</h2>
+                    <h2>Three simple steps for Insurance process</h2>
                 </div>
                 <div class="inner-container">
                     <div class="processing-block-one">

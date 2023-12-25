@@ -278,7 +278,7 @@
             <div class="auto-container">
                 <div class="sec-title mb_110"> 
                     <h6>Our process</h6>
-                    <h2>Open your Demat Account</h2>
+                    <h2>Three simple steps for Share Market process</h2>
                 </div>
                 <div class="inner-container">
                     <div class="processing-block-one">

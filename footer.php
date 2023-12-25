@@ -66,30 +66,18 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
-                            <div class="footer-widget links-widget ml_40">
-                                <div class="widget-title">
-                                    <h4>Quick Links</h4>
-                                </div>
-                                <div class="widget-content">
-                                    <ul class="links-list clearfix">
-                                        <li><a href="javascript:void(0)">Faq</a></li>
-                                        <li><a href="javascript:void(0)">Terms & Condition</a></li>
-                                        <li><a href="javascript:void(0)">Privacy Policy</a></li>
-                                        <li><a href="javascript:void(0)">Contact</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </div>
             <div class="footer-bottom centred">
-                <div class="pull-left">
-                    <div class="copyright"><p style="margin-left:100px;">Copyright © 2023 by <span style="color:#ff4900">Rajagopuram</span>. All Right Reserved.</p></div>
-                </div>
-                <div class="pull-right">
-                    <div class="copyright"><p style="margin-right:100px;">Crafted by <a href="https://zworktechnology.com/" target="_blank">zworktechnology.com</a></p></div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <p>Copyright © 2023 by <span style="color:#ff4900">Rajagopuram</span>. All Right Reserved.</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <p>Crafted by <a href="https://zworktechnology.com/" target="_blank">zworktechnology.com</a></p>
+                    </div>
+
                 </div>
             </div>
         </footer>

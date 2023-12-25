@@ -108,8 +108,8 @@
                         </ul>
                         <ul class="info-list clearfix">
                             <li>
-                                <i class="icon-1"></i>
-                                <a href="mailto:support@rajagopuram.in">support@rajagopuram.in</a>
+                                <i class="icon-2"></i>
+                                BHEL A Sector,ACR04 Township,Trichy-13.
                             </li>
                             <li>
                                 <i class="icon-2"></i>
@@ -286,7 +286,7 @@
                         <div class="inner-box">
                             <span class="count-text">01 <br>Step</span>
                             <!-- <h3>Fill In The <br>Required Form</h3> -->
-                            <p>Click the above link and sumbit all the required documents</p>
+                            <p>Sumbit all the required documents</p>
                         </div>
                     </div>
                     <div class="processing-block-one">
@@ -326,9 +326,10 @@
                                     <li>PAN</li>
                                     <li>Aadhar (Front and Back)</li>
                                     <li>Passbook or Cancel Cheque</li>
-                                    <li>Nominee Photograph - 1 Copy</li>
+                                    <li>Selfie image - 1 Copy</li>
                                     <li>Mail ID</li>
-                                    <li>Mobile Number Sign or E-sign</li>
+                                    <li>Mobile Number</li>
+                                    <li>Sign or E-sign</li>
                                 </ul>
                             </div>
                         </div>
@@ -343,7 +344,7 @@
                                     <li>Easy Transfer of Securities</li>
                                     <li>Quick Settlement</li>
                                     <li>Nomination Facility</li>
-                                </ul>
+                                </ul><br><br><br>
                             </div>
                         </div>
                     </div>
@@ -356,7 +357,7 @@
                                     <li>Must have PAN</li>
                                     <li>KYC</li>
                                     <li>Bank Account</li>
-                                </ul>
+                                </ul><br><br><br><br>
                             </div>
                         </div>
                     </div>

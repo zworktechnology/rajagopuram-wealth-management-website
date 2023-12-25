@@ -141,10 +141,10 @@
                                         <li><a href="about.php">About</a></li>
                                         <li class="dropdown"><a href="service.php">Services</a>
                                             <ul>
-                                                <li><a href="service-details.php">Share Market</a></li>
-                                                <li><a href="service-details.php">Mutual Funds</a></li>
-                                                <li><a href="service-details.php">Portfolio Management</a></li>
-                                                <li><a href="service-details.php">Insurance</a></li>
+                                                <li><a href="share_market.php">Share Market</a></li>
+                                                <li><a href="mutual_funds.php">Mutual Funds</a></li>
+                                                <li><a href="portfolio_management.php">Portfolio Management</a></li>
+                                                <li><a href="insurance.php">Insurance</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="blog.php">Blog</a></li>

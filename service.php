@@ -105,8 +105,8 @@
                         </ul>
                         <ul class="info-list clearfix">
                             <li>
-                                <i class="icon-1"></i>
-                                <a href="mailto:support@rajagopuram.in">support@rajagopuram.in</a>
+                                <i class="icon-2"></i>
+                                BHEL A Sector,ACR04 Township,Trichy-13.
                             </li>
                             <li>
                                 <i class="icon-2"></i>

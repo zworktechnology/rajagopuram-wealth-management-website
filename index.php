@@ -169,7 +169,7 @@
             <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/video-bg.jpg);"></div>
             <div class="auto-container">
                 <div class="inner-box">
-                    <h2>Commodity Trading Currency Trading Insurance</h2>
+                    <h2>Commodity Trading , Currency Trading , Insurance</h2>
                     <div class="video-btn">
                         <a href="https://www.youtube.com/watch?v=K2D2-QgL6UM" class="lightbox-image" data-caption="">
                             <i class="icon-20"></i>

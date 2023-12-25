@@ -112,8 +112,8 @@
                         </ul>
                         <ul class="info-list clearfix">
                             <li>
-                                <i class="icon-1"></i>
-                                <a href="mailto:support@rajagopuram.in">support@rajagopuram.in</a>
+                                <i class="icon-2"></i>
+                                BHEL A Sector,ACR04 Township,Trichy-13.
                             </li>
                             <li>
                                 <i class="icon-2"></i>
@@ -145,10 +145,10 @@
                                         <li><a href="about.php">About</a></li>
                                         <li class="dropdown"><a href="service.php">Services</a>
                                             <ul>
-                                                <li><a href="service-details.php">Share Market</a></li>
-                                                <li><a href="service-details.php">Mutual Funds</a></li>
-                                                <li><a href="service-details.php">Portfolio Management</a></li>
-                                                <li><a href="service-details.php">Insurance</a></li>
+                                                <li><a href="share_market.php">Share Market</a></li>
+                                                <li><a href="mutual_funds.php">Mutual Funds</a></li>
+                                                <li><a href="portfolio_management.php">Portfolio Management</a></li>
+                                                <li><a href="insurance.php">Insurance</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="javascript:void(0)">Blog</a></li>
@@ -319,9 +319,9 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-23"></i></div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="2">0</span><span>+</span>
+                                <span class="count-text" data-speed="1500" data-stop="10">0</span><span>+</span>
                             </div>
-                            <p>Branches in Trichy</p>
+                            <p>Trading Experts</p>
                         </div>
                     </div>
                 </div>
@@ -335,7 +335,7 @@
             <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/video-bg.jpg);"></div>
             <div class="auto-container">
                 <div class="inner-box">
-                    <h2>Commodity Trading Currency Trading Insurance</h2>
+                    <h2>Commodity Trading , Currency Trading , Insurance</h2>
                     <div class="video-btn">
                         <a href="https://www.youtube.com/watch?v=K2D2-QgL6UM" class="lightbox-image" data-caption="">
                             <i class="icon-20"></i>
@@ -416,7 +416,7 @@
                             <div class="testimonial-block-two">
                                 <div class="inner-box">
                                     <div class="author-box">
-                                        <figure class="thumb-box"><img src="assets/images/resource/testimonial-4.png" alt=""></figure>
+                                        <figure class="thumb-box"><img src="assets/images/resource/1.png" alt=""></figure>
                                         <h4>Happy Customers</h4>
                                         <span class="designation">Google review</span>
                                     </div>
@@ -433,7 +433,7 @@
                             <div class="testimonial-block-two">
                                 <div class="inner-box">
                                     <div class="author-box">
-                                        <figure class="thumb-box"><img src="assets/images/resource/testimonial-5.png" alt=""></figure>
+                                        <figure class="thumb-box"><img src="assets/images/resource/1.png" alt=""></figure>
                                         <h4>Happy Customers</h4>
                                         <span class="designation">Google review</span>
                                     </div>
@@ -450,7 +450,7 @@
                             <div class="testimonial-block-two">
                                 <div class="inner-box">
                                     <div class="author-box">
-                                        <figure class="thumb-box"><img src="assets/images/resource/testimonial-5.png" alt=""></figure>
+                                        <figure class="thumb-box"><img src="assets/images/resource/1.png" alt=""></figure>
                                         <h4>Happy Customers</h4>
                                         <span class="designation">Google review</span>
                                     </div>
@@ -467,7 +467,7 @@
                             <div class="testimonial-block-two">
                                 <div class="inner-box">
                                     <div class="author-box">
-                                        <figure class="thumb-box"><img src="assets/images/resource/testimonial-5.png" alt=""></figure>
+                                        <figure class="thumb-box"><img src="assets/images/resource/1.png" alt=""></figure>
                                         <h4>Happy Customers</h4>
                                         <span class="designation">Google review</span>
                                     </div>

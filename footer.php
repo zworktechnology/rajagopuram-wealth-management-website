@@ -7,7 +7,7 @@
                 </div>
                 <div class="auto-container">
                     <div class="row clearfix">
-                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget logo-widget">
                                 <figure class="footer-logo"><a href="index.php"><img src="assets/images/logo-2.png" alt=""></a></figure>
                                 <p>Elevate your financial journey with Rajagopuram Wealth. Your Partner for Prosperity and Lasting Success.</p>
@@ -21,7 +21,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                        <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget links-widget ml_40">
                                 <div class="widget-title">
                                     <h4>Explore</h4>
@@ -36,22 +36,22 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                        <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget links-widget">
                                 <div class="widget-title">
                                     <h4>Usefull Links</h4>
                                 </div>
                                 <div class="widget-content">
                                     <ul class="links-list clearfix">
-                                        <li><a href="javascript:void(0)">Share Market</a></li>
-                                        <li><a href="javascript:void(0)">Mutual Funds</a></li>
-                                        <li><a href="javascript:void(0)">Portfolio Management</a></li>
-                                        <li><a href="javascript:void(0)">Insurance</a></li>
+                                        <li><a href="share_market.php">Share Market</a></li>
+                                        <li><a href="mutual_funds.php">Mutual Funds</a></li>
+                                        <li><a href="portfolio_management.php">Portfolio Management</a></li>
+                                        <li><a href="insurance.php">Insurance</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget links-widget ml_40">
                                 <div class="widget-title">
                                     <h4>Quick Links</h4>

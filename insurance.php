@@ -108,8 +108,8 @@
                         </ul>
                         <ul class="info-list clearfix">
                             <li>
-                                <i class="icon-1"></i>
-                                <a href="mailto:support@rajagopuram.in">support@rajagopuram.in</a>
+                                <i class="icon-2"></i>
+                                BHEL A Sector,ACR04 Township,Trichy-13.
                             </li>
                             <li>
                                 <i class="icon-2"></i>
@@ -326,7 +326,6 @@
                                 <ul class="list-item clearfix">
                                     <li>Previous policy copy if any</li>
                                     <li>RC book details</li>
-                                    <li>Passbook or Cancel Cheque</li>
                                     <li>Aadhar (Front and Back)</li>
                                     <li>PAN</li>
                                 </ul>

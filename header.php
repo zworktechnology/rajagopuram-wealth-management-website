@@ -113,8 +113,8 @@
                         </ul>
                         <ul class="info-list clearfix">
                             <li>
-                                <i class="icon-1"></i>
-                                <a href="mailto:support@rajagopuram.in">support@rajagopuram.in</a>
+                                <i class="icon-2"></i>
+                                BHEL A Sector,ACR04 Township,Trichy-13.
                             </li>
                             <li>
                                 <i class="icon-2"></i>
@@ -146,10 +146,10 @@
                                         <li><a href="about.php">About</a></li>
                                         <li class="dropdown"><a href="service.php">Services</a>
                                             <ul>
-                                                <li><a href="service-details.php">Share Market</a></li>
-                                                <li><a href="service-details.php">Mutual Funds</a></li>
-                                                <li><a href="service-details.php">Portfolio Management</a></li>
-                                                <li><a href="service-details.php">Insurance</a></li>
+                                                <li><a href="share_market.php">Share Market</a></li>
+                                                <li><a href="mutual_funds.php">Mutual Funds</a></li>
+                                                <li><a href="portfolio_management.php">Portfolio Management</a></li>
+                                                <li><a href="insurance.php">Insurance</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="javascript:void(0)">Blog</a></li>

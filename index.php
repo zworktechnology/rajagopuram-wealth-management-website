@@ -14,7 +14,7 @@
                             <h2><span>Zero-Cost</span> IIFL Demat: Your Path to Prosperity.</h2>
                             <p>Just 5-min registration, trading within just 30 mins at IIFL Demat</p>
                             <div class="btn-box">
-                                <a href="contact.php" class="theme-btn btn-one">Contact Us</a>
+                                <a href="https://cutt.ly/swSp88js" target="_blank" class="theme-btn btn-one">Contact Us</a>
                             </div>
                         </div> 
                     </div>
@@ -162,8 +162,13 @@
                             <div class="inner-box">
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-12"></i></div>
-                                <h4><a href="javascript:void(0)">Share Market</a></h4>
-                                Gain from expert insights in the share market, unlocking strategic investment opportunities for financial growth.<br><br>
+                                <h4><a href="share_market.php">Share Market</a></h4>
+                                <ul class="list-item clearfix">
+                                    <li>Stock Exchanges</li>
+                                    <li>Shares or Stocks</li>
+                                    <li>Stock Indices</li>
+                                    <li>Investors</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -172,8 +177,13 @@
                             <div class="inner-box">
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-13"></i></div>
-                                <h4><a href="javascript:void(0)">Mutual Funds</a></h4>
-                                Experience intelligent investing with personalized mutual fund solutions, tailored for enduring wealth accumulation.<br><br>
+                                <h4><a href="mutual_funds.php">Mutual Funds</a></h4>
+                                <ul class="list-item clearfix">
+                                    <li>Diversification</li>
+                                    <li>Professional Management</li>
+                                    <li>Distribution of Profits</li>
+                                    <li>Regulation</li>
+                                </ul>                            
                             </div>
                         </div>
                     </div>
@@ -182,8 +192,13 @@
                             <div class="inner-box">
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-14"></i></div>
-                                <h4><a href="javascript:void(0)">Portfolio Management</a></h4>
-                                Maximize returns while minimizing risks through customized portfolio management, ensuring financial success.
+                                <h4><a href="portfolio_management.php">Portfolio Management</a></h4>
+                                <ul class="list-item clearfix">
+                                    <li>Security Selection</li>
+                                    <li>Risk Management</li>
+                                    <li>Rebalancing</li>
+                                    <li>Tax Efficiency</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -193,7 +208,12 @@
                                 <div class="shape"></div>
                                 <div class="icon-box"><i class="icon-15"></i></div>
                                 <h4><a href="javascript:void(0)">Insurance</a></h4>
-                                Ensure comprehensive protection for what matters most in life, securing your future with our insurance solutions.<br><br>
+                                <ul class="list-item clearfix">
+                                    <li>Coverage Limits</li>
+                                    <li>Regulation</li>
+                                    <li>Reinsurance</li>
+                                    <li>Claims</li>
+                                </ul>
                             </div>
                         </div>
                     </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -141,10 +141,10 @@
                                         <li><a href="about.php">About</a></li>
                                         <li class="dropdown"><a href="service.php">Services</a>
                                             <ul>
-                                                <li><a href="service-details.php">Share Market</a></li>
-                                                <li><a href="service-details.php">Mutual Funds</a></li>
-                                                <li><a href="service-details.php">Portfolio Management</a></li>
-                                                <li><a href="service-details.php">Insurance</a></li>
+                                                <li><a href="share_market.php">Share Market</a></li>
+                                                <li><a href="mutual_funds.php">Mutual Funds</a></li>
+                                                <li><a href="portfolio_management.php">Portfolio Management</a></li>
+                                                <li><a href="insurance.php">Insurance</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="javascript:void(0)">Blog</a></li>
@@ -218,17 +218,17 @@
 
         <!-- page-title -->
         <section class="page-title centred">
-            <div class="bg-layer" style="background-image: url(assets/images/background/page-title.jpg);"></div>
+            <div class="bg-layer" style="background-image: url(assets/images/services/mutual_funds.jpg);"></div>
             <div class="pattern-layer">
                 <div class="pattern-1" style="background-image: url(assets/images/shape/shape-18.png);"></div>
                 <div class="pattern-2" style="background-image: url(assets/images/shape/shape-17.png);"></div>
             </div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h1>Service Details</h1>
+                    <h1>Mutual Funds</h1>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index.php">Home</a></li>
-                        <li>Service Details</li>
+                        <li>Mutual Funds</li>
                     </ul>
                 </div>
             </div>
@@ -244,19 +244,15 @@
                         <div class="content_block_three">
                             <div class="content-box mr_110">
                                 <div class="sec-title mb_20">
-                                    <h6>About US</h6>
-                                    <h2>The Finance Guide on All Stage of Life.</h2>
+                                    <h6>Mutual Funds</h6>
                                 </div>
                                 <div class="text-box mb_40">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis, suscipit you take action against fraud. See it the Security Center for and Mobile and Online Banking.</p>
                                     <ul class="list-style-one clearfix">
-                                        <li>Improving all types of opportunities</li>
-                                        <li>Quick solutions for daily problems</li>
-                                        <li>Community that grows larger</li>
+                                        <li><b>Diversification:</b> One of the primary advantages of mutual funds is diversification. By investing in a variety of assets, mutual funds spread the risk associated with individual securities. This helps reduce the impact of poor performance from any single investment on the overall portfolio.</li>
+                                        <li><b>Professional Management:</b> Mutual funds are managed by professional fund managers who make investment decisions on behalf of the investors. These managers conduct research, analyze market trends, and aim to maximize returns within the fund's investment objectives.</li>
+                                        <li><b>Regulation:</b> Mutual funds are regulated by the Securities and Exchange Board of India (SEBI) in India and the Securities and Exchange Commission (SEC) in the United States, among other regulatory bodies globally.
+</li>
                                     </ul>
-                                </div>
-                                <div class="btn-box">
-                                    <a href="index-2.php" class="theme-btn btn-one">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -268,7 +264,7 @@
                                     <div class="shape-3" style="background-image: url(assets/images/shape/shape-11.png);"></div>
                                     <div class="shape-4" style="background-image: url(assets/images/shape/shape-3.png);"></div>
                                 </div>
-                                <figure class="image"><img src="assets/images/resource/about-4.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/services/mutual_funds1.jpg" alt=""></figure>
                             </div>
                         </div>
                     </div>
@@ -283,30 +279,30 @@
             <div class="auto-container">
                 <div class="sec-title mb_110"> 
                     <h6>Our process</h6>
-                    <h2>Open Bank Accounts</h2>
+                    <h2>Open your Demat Account</h2>
                 </div>
                 <div class="inner-container">
                     <div class="processing-block-one">
                         <div class="arrow-shape" style="background-image: url(assets/images/shape/shape-12.png);"></div>
                         <div class="inner-box">
                             <span class="count-text">01 <br>Step</span>
-                            <h3>Fill In The <br>Required Form</h3>
-                            <p>Amet minim mollit no duis deserunt ulamco.</p>
+                            <!-- <h3>Fill In The <br>Required Form</h3> -->
+                            <p>Update your KYC</p>
                         </div>
                     </div>
                     <div class="processing-block-one">
                         <div class="arrow-shape" style="background-image: url(assets/images/shape/shape-13.png);"></div>
                         <div class="inner-box">
                             <span class="count-text">02 <br>Step</span>
-                            <h3>Submit All <br>Your Documents</h3>
-                            <p>Amet minim mollit no duis deserunt ulamco.</p>
+                            <!-- <h3>Submit All <br>Your Documents</h3> -->
+                            <p>Decide the fund with our in-house experts.</p>
                         </div>
                     </div>
                     <div class="processing-block-one">
                         <div class="inner-box">
                             <span class="count-text">03 <br>Step</span>
-                            <h3>Get Your <br>Desire Account</h3>
-                            <p>Amet minim mollit no duis deserunt ulamco.</p>
+                            <!-- <h3>Get Your <br>Desire Account</h3> -->
+                            <p>Create portfolio and start investing.</p>
                         </div>
                     </div>
                 </div>
@@ -328,12 +324,10 @@
                             <div class="inner-box">
                                 <h4>Documents</h4>
                                 <ul class="list-item clearfix">
-                                    <li>NID/Birth certificate/Passport</li>
-                                    <li>Photograph – 2 Copies</li>
-                                    <li>Nominee photograph – 1 Copy</li>
-                                    <li>Nominee’s NID/Birth ID/Passport</li>
-                                    <li>Income source document</li>
-                                    <li>E-TIN Certificate</li>
+                                    <li>PAN</li>
+                                    <li>Aadhar (Front and Back)</li>
+                                    <li>Voter ID</li>
+                                    <li>Nominee Photograph - 1 Copy</li>
                                 </ul>
                             </div>
                         </div>
@@ -341,14 +335,12 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 requirements-block">
                         <div class="requirements-block-one">
                             <div class="inner-box">
-                                <h4>Features</h4>
+                                <h4>Features</h4> 
                                 <ul class="list-item clearfix">
-                                    <li>Cheque-book facility</li>
-                                    <li>Debit Card cash withdrawal from ATMs</li>
-                                    <li>Interest on Monthly Average Balance</li>
-                                    <li>Higher ATM withdrawal limit</li>
-                                    <li>Utility bill payment service</li>
-                                    <li>Online banking service thorough App</li>
+                                    <li>Systematic Investment Plans</li>
+                                    <li>Lumpsum Investment Plans</li>
+                                    <li>Tax Efficiency</li>
+                                    <li>Flexibility</li>
                                 </ul>
                             </div>
                         </div>
@@ -358,9 +350,10 @@
                             <div class="inner-box">
                                 <h4>Eligibility</h4>
                                 <ul class="list-item clearfix">
-                                    <li>Age: At least 18 years</li>
-                                    <li>Nationality: Bangladeshi</li>
-                                    <li>Full-Time Job</li>
+                                    <li>Age: At least 18 years </li>
+                                    <li>Must have PAN</li>
+                                    <li>KYC Compliance</li>
+                                    <li>Bank Account</li>
                                 </ul>
                             </div>
                         </div>

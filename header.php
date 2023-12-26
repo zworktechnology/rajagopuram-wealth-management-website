@@ -135,7 +135,7 @@
                     <div class="outer-box">
                         <div class="logo-box">
                             <div class="shape"></div>
-                            <figure class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></figure>
+                            <figure class="logo" style="width: 180px; height: 40px;"><a href="index.php"><img src="assets/images/logo.png" style="width: 250px; max-width: none;" alt=""></a></figure>
                         </div>
                         <div class="menu-area">
                             <!--Mobile Navigation Toggler-->
@@ -184,7 +184,7 @@
                     <div class="outer-box">
                         <div class="logo-box">
                             <div class="shape"></div>
-                            <figure class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></figure>
+                            <figure class="logo" style="width: 180px; height: 60px;"><a href="index.php"><img src="assets/images/logo.png" style="width: 250px; max-width: none;" alt=""></a></figure>
                         </div>
                         <div class="menu-area">
                             <nav class="main-menu clearfix">

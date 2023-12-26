@@ -70,7 +70,7 @@
                         <div class="inner-box">
                             <span class="count-text">01 <br>Step</span>
                             <!-- <h3>Fill In The <br>Required Form</h3> -->
-                            <p>Sumbit all the required documents</p>
+                            <p>Sumbit the required documents</p>
                         </div>
                     </div>
                     <div class="processing-block-one">

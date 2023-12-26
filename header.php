@@ -41,6 +41,8 @@
     <link href="assets/css/module-css/news.css" rel="stylesheet">
     <link href="assets/css/module-css/subscribe.css" rel="stylesheet">
     <link href="assets/css/module-css/contact.css" rel="stylesheet">
+    <link href="assets/css/module-css/process.css" rel="stylesheet">
+    <link href="assets/css/module-css/requirements.css" rel="stylesheet">
     <link href="assets/css/module-css/blog-details.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">   
 
@@ -189,7 +191,7 @@
                                 <!--Keep This Empty / Menu will come through Javascript-->
                             </nav>
                             <div class="menu-right-content ml_70">
-                                <a href="index.php" class="theme-btn btn-two mr_20">Call Us Now</a>
+                            <a href="https://cutt.ly/swSp88js" target="_blank" class="theme-btn btn-two mr_20">Open a Demat Account</a>
                                 <a href="https://api.whatsapp.com/send/?phone=%2B918646012345&text&type=phone_number&app_absent=0" target="_blank" class="theme-btn btn-one">Chat on Whatsapp</a>
                             </div>
                         </div>
@@ -211,11 +213,8 @@
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
-                        <li>
-                            No.179 G4,West Chithirai Street,<br>
-                            Srirangam,
-                            Trichy - 620006
-                        </li><br>
+                        <li>C.O - West Chithirai Street,Srirangam,Trichy.</li>
+                        <li>B.O - BHEL A Sector,ACR04 Township,Trichy.</li><br>
                         <li><a href="tel:+918646012345">+91 8646012345</a></li>
                         <li><a href="mailto:support@rajagopuram.in">support@rajagopuram.in</a></li>
                     </ul>
@@ -225,6 +224,8 @@
                         <li><a href="https://www.facebook.com/rajagopuramwealth" target="_blank"><span class="fab fa-facebook"></span></a></li>
                         <li><a href="https://www.instagram.com/rajagopuram_wealth/" target="_blank"><span class="fab fa-instagram"></span></a></li>
                         <li><a href="https://www.youtube.com/@rajagopuram4920" target="_blank"><span class="fab fa-youtube"></span></a></li>
+                        <li><a href="https://api.whatsapp.com/send/?phone=%2B918646012345&text&type=phone_number&app_absent=0" target="_blank"><span class="fab fa-whatsapp"></span></a></li>
+                        <li><a href="https://twitter.com/Rgmarketing2123" target="_blank"><span class="fab fa-twitter"></span></a></li>
                     </ul>
                 </div>
             </nav>

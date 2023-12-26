@@ -28,6 +28,7 @@
     <link href="assets/css/switcher-style.css" rel="stylesheet">
     <link href="assets/css/rtl.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/module-css/page-title.css" rel="stylesheet">
     <link href="assets/css/module-css/banner.css" rel="stylesheet">
     <link href="assets/css/module-css/feature.css" rel="stylesheet">
     <link href="assets/css/module-css/about.css" rel="stylesheet">
@@ -39,6 +40,8 @@
     <link href="assets/css/module-css/testimonial.css" rel="stylesheet">
     <link href="assets/css/module-css/news.css" rel="stylesheet">
     <link href="assets/css/module-css/subscribe.css" rel="stylesheet">
+    <link href="assets/css/module-css/contact.css" rel="stylesheet">
+    <link href="assets/css/module-css/blog-details.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">   
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -114,11 +117,11 @@
                         <ul class="info-list clearfix">
                             <li>
                                 <i class="icon-2"></i>
-                                BHEL A Sector,ACR04 Township,Trichy-13.
+                                    C.O - West Chithirai Street,Srirangam,Trichy.
                             </li>
                             <li>
                                 <i class="icon-2"></i>
-                                West Chithirai Street,Srirangam,Trichy-06.
+                                    B.O - BHEL A Sector,ACR04 Township,Trichy.
                             </li>
                         </ul>
                     </div>
@@ -152,13 +155,20 @@
                                                 <li><a href="insurance.php">Insurance</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="javascript:void(0)">Blog</a></li>
+                                        <li class="dropdown"><a href="javascript:void(0)">Blog</a>
+                                            <ul>
+                                                <li><a href="javascript:void(0)">General</a></li>
+                                                <li><a href="javascript:void(0)">Share Market</a></li>
+                                                <li><a href="javascript:void(0)">Mutual Funds</a></li>
+                                                <li><a href="javascript:void(0)">Insurance</a></li>
+                                            </ul>
+                                        </li>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </div>
                             </nav>
                             <div class="menu-right-content ml_70">
-                                <a href="tel:+918646012345" class="theme-btn btn-two mr_20">Call Us Now</a>
+                                <a href="https://cutt.ly/swSp88js" target="_blank" class="theme-btn btn-two mr_20">Open a Demat Account</a>
                                 <a href="https://api.whatsapp.com/send/?phone=%2B918646012345&text&type=phone_number&app_absent=0" target="_blank" class="theme-btn btn-one">Chat on Whatsapp</a>
                             </div>
                         </div>

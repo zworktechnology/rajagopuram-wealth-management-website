@@ -26,12 +26,12 @@
             <div class="pattern-layer rotate-me"></div>
             <div class="auto-container">
                 <div class="row clearfix">
-                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column pt-5 mt-5 ml-3">
                         <div class="image_block_one">
                             <div class="image-box pr_90 mr_40">
                                 <div class="image-shape" style="background-image: url(assets/images/shape/shape-3.png);"></div>
                                 <figure class="image"><img src="assets/images/resource/about-2.jpg" alt=""></figure>
-                                <div class="rating-box">
+                                <!-- <div class="rating-box">
                                     <ul class="rating mb_5 clearfix">
                                         <li><i class="icon-9"></i></li>
                                         <li><i class="icon-9"></i></li>
@@ -46,7 +46,7 @@
                                         <h2>18+</h2>
                                         <h6>Years of Experience</h6>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

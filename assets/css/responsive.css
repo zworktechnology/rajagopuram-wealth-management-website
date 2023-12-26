@@ -46,7 +46,7 @@
 
   .main-header .outer-box .logo-box{
     margin-top: 0px;
-    padding: 31px 30px !important;
+    padding: 31px 90px 61px 0px;!important;
   }
 
   .main-header .outer-box .logo-box:before,
@@ -154,9 +154,9 @@
     margin: 0px 5px !important;
   }
 
-  .main-header .outer-box .logo-box{
+  /* .main-header .outer-box .logo-box{
     padding: 15px !important;
-  }
+  } */
 
   .header-style-two .header-top{
     padding-left: 15px !important;

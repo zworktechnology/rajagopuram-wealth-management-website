@@ -52,14 +52,14 @@
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                         <div class="content_block_one">
-                            <div class="content-box ml_40">
+                            <div class="content-box ml_40" style="text-align: justify;">
                                 <div class="sec-title mb_20">
                                     <h6>About US</h6>
-                                    <h2>Rajagopuram Wealth : Crafting Financial Success</h2>
+                                    <h2 style="font-size: 35px;">Rajagopuram Wealth&nbsp;: Crafting Financial Success</h2>
                                 </div>
                                 <div class="text-box mb_40">
                                     <ul class="one">
-                                        <li>&#8226;&nbsp;&nbsp;   The legacy of trust and integrity under the brand 'Rajagopuram Wealth Management' is deeply gratifying and has led to the establishment of "Rajagopuram Wealth Management Services," where comprehensive financial solutions are available under one roof. Our growth has largely been organic, with key partnerships solidifying our position as the most reliable Wealth Management firm in Trichy.</li>
+                                        <li>&#8226;&nbsp;   The legacy of trust and integrity under the brand 'Rajagopuram Wealth Management' is deeply gratifying and has led to the establishment of "Rajagopuram Wealth Management Services," where comprehensive financial solutions are available under one roof. Our growth has largely been organic, with key partnerships solidifying our position as the most reliable Wealth Management firm in Trichy.</li>
                                         <li>&#8226;&nbsp;&nbsp;   Rajagopuram Wealth Management has received numerous awards, including the prestigious "BEST CUSTOMER SATISFACTION" award for three consecutive years, recognizing our excellent 24x7 customer support services. We have strategically partnered with IIFL SECURITIES to further enhance our services.</li>
                                         <li>&#8226;&nbsp;&nbsp;   We offer a complete range of products, including Shares, Mutual Funds, and Insurance. Our commitment extends to providing end-to-end solutions for all our services and products. In addition to shares, mutual funds, and insurance, we assist our clients with various loans, such as Home loans, mortgage loans, I CARE services, and Financial Planning.</li>
                                     </ul>

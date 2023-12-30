@@ -9,7 +9,7 @@
                     <div class="row clearfix">
                         <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget logo-widget">
-                                <figure class="footer-logo"><a href="index.php" style="width: 180px; height: 40px;"><img src="assets/images/logo.png" style="width: 250px; max-width: none;"></a></figure>
+                                <figure class="footer-logo"><a href="index.php" style="width: 180px; height: 40px;"><img src="assets/images/21.png" style="width: 250px; max-width: none;"></a></figure>
                                 <p>Elevate your financial journey with Rajagopuram Wealth. Your Partner for Prosperity and Lasting Success.</p>
                                 <ul class="social-links">
                                     <li><a href="https://www.facebook.com/rajagopuramwealth" target="_blank" ><span class="fab fa-facebook"></span></a></li>

@@ -31,7 +31,7 @@
                                     <h6>Portfolio Management</h6>
                                 </div>
                                 <div class="text-box mb_40">
-                                    <ul class="list-style-one clearfix">
+                                    <ul class="list-style-one clearfix" style="text-align: justify;">
                                         <li><b>Security Selection:</b> Identifying and selecting specific securities, such as stocks, bonds, mutual funds, or exchange-traded funds (ETFs), that align with the investor's goals and risk profile. This involves analyzing individual investments based on factors like financial health, growth potential, and historical performance.</li>
                                         <li><b>Risk Management:</b> Assessing the risk tolerance of the investor and implementing strategies to manage and mitigate risk. This may involve using various risk management tools, including options or insurance.</li>
                                         <li><b>Rebalancing:</b> Periodically adjusting the portfolio to maintain the desired asset allocation. Rebalancing ensures that the portfolio stays aligned with the investor's goals and risk tolerance, especially as market conditions and asset values change.</li>

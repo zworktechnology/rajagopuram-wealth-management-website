@@ -50,6 +50,14 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
 
+    <style>
+        .one{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            }
+    </style>
+
 </head>
 
 <!-- page wrapper -->
@@ -64,12 +72,13 @@
                 <div class="preloader-close">close</div>
                 <div id="handle-preloader" class="handle-preloader">
                     <div class="animation-preloader">
-                        <div class="spinner"></div>
+                            <img src="assets/images/favicon1.png" style="width: 200px; height:200px" class="one" >
+                        
                         <div class="txt-loading">
                             <span data-text-preloader="r" class="letters-loading">
                                 r
                             </span>
-                            <span data-text-preloader="a" class="letters-loading">
+                            <span data-text-preloader="a" class="letters-loading"> 
                                 a
                             </span>
                             <span data-text-preloader="j" class="letters-loading">
@@ -133,10 +142,7 @@
             <div class="header-lower">
                 <div class="large-container">
                     <div class="outer-box">
-                        <div class="logo-box">
-                            <div class="shape"></div>
-                            <figure class="logo" style="width: 180px; height: 40px;"><a href="index.php"><img src="assets/images/logo.png" style="width: 250px; max-width: none;" alt=""></a></figure>
-                        </div>
+                            <figure class="logo" style="width: 270px; height: 110px;"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></figure>
                         <div class="menu-area">
                             <!--Mobile Navigation Toggler-->
                             <div class="mobile-nav-toggler">
@@ -182,10 +188,7 @@
             <div class="sticky-header">
                 <div class="large-container">
                     <div class="outer-box">
-                        <div class="logo-box">
-                            <div class="shape"></div>
-                            <figure class="logo" style="width: 180px; height: 60px;"><a href="index.php"><img src="assets/images/logo.png" style="width: 250px; max-width: none;" alt=""></a></figure>
-                        </div>
+                            <figure class="logo" style="width: 200px; height: 100px;"><a href="index.php"><img src="assets/images/logo.png" style="width: 250px; max-width: none;" alt=""></a></figure>
                         <div class="menu-area">
                             <nav class="main-menu clearfix">
                                 <!--Keep This Empty / Menu will come through Javascript-->

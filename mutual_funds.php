@@ -31,7 +31,7 @@
                                     <h6>Mutual Funds</h6>
                                 </div>
                                 <div class="text-box mb_40">
-                                    <ul class="list-style-one clearfix">
+                                    <ul class="list-style-one clearfix"style="text-align: justify;">
                                         <li><b>Diversification:</b> One of the primary advantages of mutual funds is diversification. By investing in a variety of assets, mutual funds spread the risk associated with individual securities. This helps reduce the impact of poor performance from any single investment on the overall portfolio.</li>
                                         <li><b>Professional Management:</b> Mutual funds are managed by professional fund managers who make investment decisions on behalf of the investors. These managers conduct research, analyze market trends, and aim to maximize returns within the fund's investment objectives.</li>
                                         <li><b>Regulation:</b> Mutual funds are regulated by the Securities and Exchange Board of India (SEBI) in India and the Securities and Exchange Commission (SEC) in the United States, among other regulatory bodies globally.

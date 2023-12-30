@@ -32,7 +32,7 @@
                                     <h6>Insurance</h6>
                                 </div>
                                 <div class="text-box mb_40">
-                                    <ul class="list-style-one clearfix">
+                                    <ul class="list-style-one clearfix" style="text-align: justify;">
                                         <li><b>Coverage Limits:</b> Insurance policies specify the maximum amount an insurance company will pay for a covered loss. Policyholders can choose coverage limits based on their needs and budget</li>
                                         <li><b>Reinsurance:</b> Insurance companies often spread their risk by purchasing reinsurance, transferring a portion of the risk to another insurance company.</li>
                                         <li><b>Claims:</b> When a covered event occurs, the policyholder can file a claim with the insurance company. The insurer then assesses the claim and compensates the policyholder accordingly.</li>

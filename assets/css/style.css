@@ -615,7 +615,6 @@ img {
 .sec-title h2{
   display: block;
   font-size: 40px;
-  line-height: 52px;
   font-weight: 800;
 }
 
@@ -1947,6 +1946,9 @@ button.ltr {
 .accordion-box .block .acc-content.current{
   display:block;  
 }
+
+
+
 
 
 

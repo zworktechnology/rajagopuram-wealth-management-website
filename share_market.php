@@ -31,8 +31,8 @@
                                     <h6>Share Market</h6>
                                 </div>
                                 <div class="text-box mb_40">
-                                    <ul class="list-style-one clearfix">
-                                        <li><b>Stock Exchanges:</b>  The share market operates through stock exchanges, which are platforms where buyers and sellers come together to trade stocks. Examples of major stock exchanges include the New York Stock Exchange (NYSE), NASDAQ, London Stock Exchange (LSE), and Tokyo Stock Exchange (TSE).</li>
+                                    <ul class="list-style-one clearfix" style="text-align: justify;">
+                                        <li><b>Stock Exchanges:</b>  The share market operates through stock exchanges, which are platforms where buyers and sellers come together to trade stocks. Examples of major stock exchanges include the NSE (National Stock Exchange) and BSE (Bombay Stock Exchange).</li>
                                         <li><b>Shares or Stocks:</b> Companies divide their ownership into shares, and these shares are traded in the stock market. When investors buy shares, they become partial owners of the company and are entitled to a portion of its profits.</li>
                                         <li><b>Investors:</b> Individuals, institutional investors (such as mutual funds, pension funds, and hedge funds), and other entities participate in the share market by buying and selling stocks. Investors may seek capital appreciation, dividends, or voting rights depending on their investment goals.</li>                                    
                                     </ul>

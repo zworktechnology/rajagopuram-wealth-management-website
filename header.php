@@ -121,9 +121,11 @@
             <div class="header-top">
                 <div class="large-container">
                     <div class="top-inner">
-                        <ul class="links-list clearfix">
-                          <!--  <li><a href="javascript:void(0)">Terms and Conditions</a></li>
-                            <li><a href="javascript:void(0)">Privacy Policy</a></li>-->
+                        <ul class="info-list clearfix">
+                          <li>
+                            <i class="icon-44"></i>
+                                <a href="tel:+918646012345">+91 86460 12345</a>
+                          </li>
                         </ul>
                         <ul class="info-list clearfix">
                             <li>

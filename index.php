@@ -1,7 +1,6 @@
 ﻿<?php include('header.php') ?>
 <style>
     .center {
-    height: 250px;
     position: relative;
     color: whitesmoke;
     font-size: 40px;
@@ -191,7 +190,7 @@
                 <div class="carousel-caption">
                     <h2 class="center">Commodity Trading , Currency Trading , Insurance</h2>
                         <div class="inner-box">
-                            <div class="video-btn">
+                            <div class="video-btn" style="margin: 50px;">
                                 <a href="https://www.youtube.com/watch?v=K2D2-QgL6UM" class="lightbox-image" data-caption="">
                                     <i class="icon-20"></i>
                                     <span class="border-animation border-1"></span>
@@ -207,7 +206,7 @@
                 <div class="carousel-caption">
                     <h2 class="center">DSP Global Innovation Fund of Fund - <br> New Fund</h2>
                         <div class="inner-box">
-                            <div class="video-btn">
+                            <div class="video-btn" style="margin: 50px;">
                                 <a href="https://www.youtube.com/watch?v=vMM2c38II7g&t=1s" class="lightbox-image" data-caption="">
                                     <i class="icon-20"></i>
                                     <span class="border-animation border-1"></span>
@@ -223,7 +222,7 @@
                 <div class="carousel-caption">
                     <h2 class="center">Testimonials for Rajagopuram <br> By PKS Travel</h2>
                         <div class="inner-box">
-                            <div class="video-btn">
+                            <div class="video-btn" style="margin: 50px;">
                                 <a href="https://www.youtube.com/watch?v=Y_C_Yp7WTk8" class="lightbox-image" data-caption="">
                                     <i class="icon-20"></i>
                                     <span class="border-animation border-1"></span>
@@ -245,6 +244,7 @@
         </button>
     </div>
 </section>
+<!-- video-section end -->
 
 <!-- service-section -->
 <section class="service-section pt_120 pb_90">
@@ -262,10 +262,11 @@
                         <div class="icon-box"><i class="icon-12"></i></div>
                         <h4><a href="share_market.php">Share Market</a></h4>
                         <ul class="list-item clearfix">
-                            <li>Stock Exchanges</li>
-                            <li>Shares or Stocks</li>
-                            <li>Stock Indices</li>
-                            <li>Investors</li>
+                            <li>Currency and derivatives</li>
+                            <li>Future and options</li>
+                            <li>Equity market</li>
+                            <li>Commodities</li>
+                            <li>IPO</li>
                         </ul>
                     </div>
                 </div>
@@ -277,10 +278,11 @@
                         <div class="icon-box"><i class="icon-13"></i></div>
                         <h4><a href="mutual_funds.php">Mutual Funds</a></h4>
                         <ul class="list-item clearfix">
-                            <li>Diversification</li>
-                            <li>Professional Management</li>
-                            <li>Distribution of Profits</li>
-                            <li>Regulation</li>
+                            <li>Long term goals planning</li>
+                            <li>Small term goals planning</li>
+                            <li>Retirement planning</li>
+                            <li>Child education</li>
+                            <li>NFO</li>
                         </ul>
                     </div>
                 </div>
@@ -292,6 +294,7 @@
                         <div class="icon-box"><i class="icon-14"></i></div>
                         <h4><a href="portfolio_management.php">Portfolio Management</a></h4>
                         <ul class="list-item clearfix">
+                            <li>Communication and Reporting</li>
                             <li>Security Selection</li>
                             <li>Risk Management</li>
                             <li>Rebalancing</li>
@@ -307,11 +310,10 @@
                         <div class="icon-box"><i class="icon-15"></i></div>
                         <h4><a href="javascript:void(0)">Insurance</a></h4>
                         <ul class="list-item clearfix">
-                            <li>Coverage Limits</li>
-                            <li>Regulation</li>
-                            <li>Reinsurance</li>
-                            <li>Claims</li>
-                        </ul>
+                            <li>Life Insurance</li>
+                            <li>Health Insurance</li>
+                            <li>General Insurance</li>
+                        </ul><br><br>
                     </div>
                 </div>
             </div>

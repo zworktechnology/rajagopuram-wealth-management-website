@@ -205,7 +205,7 @@
             <div class="carousel-item">
                 <img src="assets/images/background/video-bg2.jpg" class="d-block w-100" style="height: 500px;" alt="...">
                 <div class="carousel-caption">
-                    <h2 class="center">DSP Global Innovation Fund of Fund <br> New Fund</h2>
+                    <h2 class="center">DSP Global Innovation Fund of Fund - <br> New Fund</h2>
                         <div class="inner-box">
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=vMM2c38II7g&t=1s" class="lightbox-image" data-caption="">

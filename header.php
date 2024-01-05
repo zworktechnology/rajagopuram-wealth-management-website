@@ -44,6 +44,7 @@
     <link href="assets/css/module-css/process.css" rel="stylesheet">
     <link href="assets/css/module-css/requirements.css" rel="stylesheet">
     <link href="assets/css/module-css/blog-details.css" rel="stylesheet">
+    <link href="assets/css/module-css/sidebar.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">   
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -165,9 +166,9 @@
                                                 <li><a href="insurance.php">Insurance</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="javascript:void(0)">Blog</a>
+                                        <li class="dropdown"><a href="blog.php">Blog</a>
                                             <ul>
-                                                <li><a href="javascript:void(0)">General</a></li>
+                                                <li><a href="blog-details.php">General</a></li>
                                                 <li><a href="javascript:void(0)">Share Market</a></li>
                                                 <li><a href="javascript:void(0)">Mutual Funds</a></li>
                                                 <li><a href="javascript:void(0)">Insurance</a></li>

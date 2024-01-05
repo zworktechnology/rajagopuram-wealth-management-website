@@ -27,22 +27,21 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                         <div class="news-block-two wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="inner-box">
-                                <figure class="image-box"><a href="blog-details.php"><img src="assets/images/news/news-4.jpg" alt=""></a></figure>
+                                <figure class="image-box"><a href="blog-insurance.php"><img src="assets/images/blog/blog-1.jpg" alt=""></a></figure>
                                 <div class="lower-content">
                                     <div class="post-date">
-                                        <h4>10<span>Jan</span></h4>
+                                        <h4>05<span>Jan</span></h4>
                                     </div>
-                                    <h3><a href="blog-details.php">Self-Guided Driving & Tours Walk Of Greater City</a></h3>
-                                    <p>Amet minim mollit duis sit enim aliqua dolor do amet officia. Pellentesque etiam niss...</p>
+                                    <h3 style="font-size: 20px;"><a href="blog-insurance.php">The Art of Protection: Crafting Your Financial Canvas with Term Insurance</a></h3>
+                                    <p>Term insurance is a type of life insurance that provides coverage for a specified term or period.</p>
                                     <ul class="post-info">
-                                        <li><i class="icon-32"></i><a href="blog-details.php">Admin</a></li>
-                                        <li><i class="icon-33"></i>0 Comment</li>
+                                        <li><i class="icon-32"></i><a href="javascript:void(0)">Admin</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 news-block">
+                    <!-- <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                         <div class="news-block-two wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box"><a href="blog-details.php"><img src="assets/images/news/news-5.jpg" alt=""></a></figure>
@@ -95,43 +94,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-two wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <figure class="image-box"><a href="blog-details.php"><img src="assets/images/news/news-8.jpg" alt=""></a></figure>
-                                <div class="lower-content">
-                                    <div class="post-date">
-                                        <h4>06<span>Jan</span></h4>
-                                    </div>
-                                    <h3><a href="blog-details.php">Assistance Homes Properties Real Estate</a></h3>
-                                    <p>Amet minim mollit duis sit enim aliqua dolor do amet officia. Pellentesque etiam niss...</p>
-                                    <ul class="post-info">
-                                        <li><i class="icon-32"></i><a href="blog-details.php">Admin</a></li>
-                                        <li><i class="icon-33"></i>5 Comment</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-two wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <figure class="image-box"><a href="blog-details.php"><img src="assets/images/news/news-9.jpg" alt=""></a></figure>
-                                <div class="lower-content">
-                                    <div class="post-date">
-                                        <h4>05<span>Jan</span></h4>
-                                    </div>
-                                    <h3><a href="blog-details.php">How to Manage Business’s Online Reputation</a></h3>
-                                    <p>Amet minim mollit duis sit enim aliqua dolor do amet officia. Pellentesque etiam niss...</p>
-                                    <ul class="post-info">
-                                        <li><i class="icon-32"></i><a href="blog-details.php">Admin</a></li>
-                                        <li><i class="icon-33"></i>3 Comment</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    </div> -->
                 </div>
                 <!-- <div class="pagination-wrapper centred pt_50">
                     <ul class="pagination">

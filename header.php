@@ -168,10 +168,10 @@
                                         </li>
                                         <li class="dropdown"><a href="blog.php">Blog</a>
                                             <ul>
-                                                <li><a href="blog-details.php">General</a></li>
+                                                <li><a href="javascript:void(0)">General</a></li>
                                                 <li><a href="javascript:void(0)">Share Market</a></li>
                                                 <li><a href="javascript:void(0)">Mutual Funds</a></li>
-                                                <li><a href="javascript:void(0)">Insurance</a></li>
+                                                <li><a href="blog-insurance.php">Insurance</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="contact.php">Contact</a></li>

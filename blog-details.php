@@ -35,7 +35,6 @@
                                         </div>
                                         <ul class="post-info mb_15">
                                             <li><i class="icon-32"></i><a href="blog-details.php">Admin</a></li>
-                                            <li><i class="icon-33"></i>3 Comment</li>
                                         </ul>
                                         <h3>Self-Guided Driving & Tours Walk Of Greater City</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus ornare non non massa elit rutrum. Erosie proin nibh neque interdum accumsan, neque vitae. Tortor etiam sed suspendisse faucibus ac volutpati mattis tortor nec. Orc velit a, posuere turpis amet. Lectus lacus lectus habitasse amet quam libero, and lorem. Volutpat odio maecenas viverra consequat condimentum diam donec aliquet. Natoque quam id vitae leo risus. Eget neque proin in dolor cursus bibendum urna dictum. Aliquam gravida et proin donen maecenas quis faucibus varius tristique.</p>
@@ -46,7 +45,7 @@
                                             <li>Mauris donec ociis et magnis sapien etiam sapien sagittis congue tempor gravida done</li>
                                             <li>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.</li>
                                         </ul>
-                                        <blockquote>
+                                        <!-- <blockquote>
                                             <div class="icon-box"><img src="assets/images/icons/icon-5.png" alt=""></div>
                                             <h5>“Lorem ipsum dolor sit amet, consectetur adipiscing elit amet purus tempor dui pharet consequat nibh elit urna interdum viera quam and arcu duis quis lectus donec nulla and aliquam dolore intun rodeo</h5>
                                             <div class="author-inner">
@@ -54,7 +53,7 @@
                                                 <h3>Donald Richard</h3>
                                                 <span>Finance Advisor</span>
                                             </div>
-                                        </blockquote>
+                                        </blockquote> -->
                                     </div>
                                 </div>
                             </div>
@@ -79,42 +78,6 @@
                                 <h2>When You Pay Your Credit Card Bill</h2>
                                 <p>Pulvinar dolor aliquet netus ultrices neque, mi non accumsan ullamcorper. Et nunc scelerisque turpisdi facilisis pretium ut facilisis pharetra, ultrices. Duis imperdiet habitant arcu quis. Nunc euismod odio ani cursus in diam eget tincidunt mauris. Volutpat odio maecenas viverra consequat condimentum diam donec aliquet. Natoque quam id vitae leo risus. Eget neque proin in dolor cursus bibendum</p>
                             </div>
-                            <div class="post-tag-option mb_60">
-                                <ul class="tags-list clearfix">
-                                    <li><span>Tags:</span></li>
-                                    <li><a href="blog-details.php">Activities</a></li>
-                                    <li><a href="blog-details.php">Depertment</a></li>
-                                    <li><a href="blog-details.php">City</a></li>
-                                    <li><a href="blog-details.php">Certificate</a></li>
-                                </ul>
-                            </div>
-                            <div class="author-box mb_60">
-                                <figure class="author-thumb"><img src="assets/images/news/author-2.jpg" alt=""></figure>
-                                <h4>Julien Asange</h4>
-                                <span>About Author</span>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit amet sit purus tempor dui pharetra consequat nibh elit urna interdum viera quam.</p>
-                            </div>
-                            <div class="comment-form-area">
-                                <h3>Leave a Comment</h3>
-                                <div class="form-inner">
-                                    <form method="post" action="blog-details.php">
-                                        <div class="row clearfix">
-                                            <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                                <input type="text" name="name" placeholder="Your name" required="">
-                                            </div>
-                                            <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                                <input type="email" name="email" placeholder="Your email" required="">
-                                            </div>
-                                            <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                                <textarea name="message" placeholder="Type message"></textarea>
-                                            </div>
-                                            <div class="col-lg-6 col-md-6 col-sm-12 form-group message-btn">
-                                                <button type="submit" class="theme-btn btn-one">Submit Comment</button>
-                                            </div>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
@@ -125,12 +88,10 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="category-list clearfix">
-                                        <li><a href="blog-details.php">City News</a></li>
-                                        <li><a href="blog-details.php">Government</a></li>
-                                        <li><a href="blog-details.php">Development</a></li>
-                                        <li><a href="blog-details.php">Tourism</a></li>
-                                        <li><a href="blog-details.php">Culture</a></li>
-                                        <li><a href="blog-details.php">Community</a></li>
+                                        <li><a href="blog-details.php">General</a></li>
+                                        <li><a href="blog-details.php">Share Market</a></li>
+                                        <li><a href="blog-details.php">Mutual Funds</a></li>
+                                        <li><a href="blog-details.php">Insurance</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -156,7 +117,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="sidebar-widget tags-widget">
+                            <!-- <div class="sidebar-widget tags-widget">
                                 <div class="widget-title">
                                     <h3>Popular Tags</h3>
                                 </div>
@@ -172,7 +133,7 @@
                                         <li><a href="blog-details.php">Food</a></li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

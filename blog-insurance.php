@@ -113,7 +113,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="sidebar-widget post-widget">
+                    <!-- <div class="sidebar-widget post-widget">
                         <div class="widget-title">
                             <h3>Latest News</h3>
                         </div>
@@ -134,7 +134,7 @@
                                 <span class="post-date"><i class="icon-27"></i>Apr 15, 2022</span>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- <div class="sidebar-widget tags-widget">
                                 <div class="widget-title">
                                     <h3>Popular Tags</h3>

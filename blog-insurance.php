@@ -106,10 +106,10 @@
                         </div>
                         <div class="widget-content">
                             <ul class="category-list clearfix">
-                                <li><a href="blog-details.php">General</a></li>
-                                <li><a href="blog-details.php">Share Market</a></li>
-                                <li><a href="blog-details.php">Mutual Funds</a></li>
-                                <li><a href="blog-details.php">Insurance</a></li>
+                                <li><a href="javascript:void(0)">General</a></li>
+                                <li><a href="javascript:void(0)">Share Market</a></li>
+                                <li><a href="javascript:void(0)">Mutual Funds</a></li>
+                                <li><a href="javascript:void(0)">Insurance</a></li>
                             </ul>
                         </div>
                     </div>
